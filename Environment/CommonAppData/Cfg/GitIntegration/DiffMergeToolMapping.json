@@ -1,0 +1,37 @@
+[
+  {
+    "FileExtension": ".seq",
+    "MergeToolApplicationPath": "C:\\Program Files (x86)\\National Instruments\\Shared\\TestStand\\FileDifferLauncher.exe",
+    "DiffToolApplicationPath": "C:\\Program Files (x86)\\National Instruments\\Shared\\TestStand\\FileDifferLauncher.exe",
+    "MergeToolArguments": "\"{BASE}\" \"{LOCAL}\" \"{REMOTE}\" \"{MERGED}\"",
+    "DiffToolArguments": "\"{LOCAL}\" \"{REMOTE}\""
+  },
+  {
+    "FileExtension": ".tpj",
+    "MergeToolApplicationPath": "C:\\Program Files (x86)\\National Instruments\\Shared\\TestStand\\FileDifferLauncher.exe",
+    "DiffToolApplicationPath": "C:\\Program Files (x86)\\National Instruments\\Shared\\TestStand\\FileDifferLauncher.exe",
+    "MergeToolArguments": "\"{BASE}\" \"{LOCAL}\" \"{REMOTE}\" \"{MERGED}\"",
+    "DiffToolArguments": "\"{LOCAL}\" \"{REMOTE}\""
+  },
+  {
+    "FileExtension": ".tsw",
+    "MergeToolApplicationPath": "C:\\Program Files (x86)\\National Instruments\\Shared\\TestStand\\FileDifferLauncher.exe",
+    "DiffToolApplicationPath": "C:\\Program Files (x86)\\National Instruments\\Shared\\TestStand\\FileDifferLauncher.exe",
+    "MergeToolArguments": "\"{BASE}\" \"{LOCAL}\" \"{REMOTE}\" \"{MERGED}\"",
+    "DiffToolArguments": "\"{LOCAL}\" \"{REMOTE}\""
+  },
+  {
+    "FileExtension": ".vi",
+    "MergeToolApplicationPath": "C:\\Program Files (x86)\\National Instruments\\Shared\\LabVIEW Merge\\LVMerge.exe",
+    "DiffToolApplicationPath": "C:\\Program Files (x86)\\National Instruments\\Shared\\LabVIEW Compare\\LVCompare.exe",
+    "MergeToolArguments": "\"{BASE}\" \"{LOCAL}\" \"{REMOTE}\" \"{MERGED}\"",
+    "DiffToolArguments": "\"{LOCAL}\" \"{REMOTE}\""
+  },
+  {
+    "FileExtension": ".llb",
+    "MergeToolApplicationPath": "C:\\Program Files (x86)\\National Instruments\\Shared\\LabVIEW Merge\\LVMerge.exe",
+    "DiffToolApplicationPath": "",
+    "MergeToolArguments": "\"{BASE}\" \"{LOCAL}\" \"{REMOTE}\" \"{MERGED}\"",
+    "DiffToolArguments": "\"{LOCAL}\" \"{REMOTE}\""
+  }
+]

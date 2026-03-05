@@ -1,0 +1,100 @@
+Source File,R5G_Production_Test_Limits_Rev A_DRAFT_10-22-25.xlsx
+Table Name,Section 9.1 Periodic Functional Tests (RF Gain Test at Burn-In)
+
+Test Number,Test Description,Path,Band,TDD,Band Frequency Config. (L/M/H),Frequency (MHz),Cold PA Input Power (dBm),TBD Hot PA Input Power (dBm),Dwell (s),Signal Type (CW/LTE),Digital Attenuator Overide Set (dB),RF In Port,RF Out Port,Output Power Meas. Lower Limit (dBm),Output Power Meas. Upper Limit (dBm),Output Power Reported to Measured DELTA (dB),Input Power Reported Lower Limit (dBm),Input Power Reported Upper Limit (dBm),Ext DC Power Limit (Watts),Shutdown Ext DC Power (Watts),RF/Analog Reported Temp Limit (C ),Shutdown Measured RF Power (dBm),Expected Output Power at Cold (dBm),TBD Expected Output Power at Hot (dBm),Expected Input Power Reported to Measured DELTA (dB),Expected Output Power Reported to Measured DELTA (dB)
+TEST_1,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,1,71,FALSE,L,620,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_2,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,1,71,FALSE,M,635,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_3,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,1,71,FALSE,H,649,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_4,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,2,12_17,FALSE,L,732,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_5,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,2,12_17,FALSE,M,738,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_6,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,2,12_17,FALSE,H,743,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_7,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,3,28A,FALSE,L,761,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_8,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,3,28A,FALSE,M,773,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_9,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,3,28A,FALSE,H,785,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_10,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,4,28B,FALSE,L,776,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_11,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,4,28B,FALSE,M,788,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_12,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,4,28B,FALSE,H,800,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_13,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,5,13,FALSE,L,749,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_14,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,5,13,FALSE,M,751,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_15,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,5,13,FALSE,H,753,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_16,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,6,14,FALSE,L,761,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_17,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,6,14,FALSE,M,763,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_18,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,6,14,FALSE,H,765,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_19,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,7,20,FALSE,L,794,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_20,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,7,20,FALSE,M,806,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_21,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,7,20,FALSE,H,818,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_22,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,8,5_6_19_26,FALSE,L,862,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_23,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,8,5_6_19_26,FALSE,M,877,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_24,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,8,5_6_19_26,FALSE,H,891,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_25,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,9,8,FALSE,L,928,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_26,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,9,8,FALSE,M,943,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_27,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,9,8,FALSE,H,957,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_28,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,10,LB_Bypass,FALSE,L,620,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_29,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,10,LB_Bypass,FALSE,M,789,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_30,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,10,LB_Bypass,FALSE,H,957,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_31,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,11,70,FALSE,L,1998,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_32,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,11,70,FALSE,M,2008,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_33,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,11,70,FALSE,H,2017,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_34,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,12,3_9,FALSE,L,1808,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_35,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,12,3_9,FALSE,M,1843,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_36,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,12,3_9,FALSE,H,1877,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_37,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,13,39_33_TDD,TRUE,L,1883,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_38,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,13,39_33_TDD,TRUE,M,1900,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_39,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,13,39_33_TDD,TRUE,H,1917,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_40,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,14,34_TDD,TRUE,L,2013,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_41,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,14,34_TDD,TRUE,M,2018,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_42,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,14,34_TDD,TRUE,H,2022,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_43,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,15,35_TDD,TRUE,L,1853,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_44,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,15,35_TDD,TRUE,M,1880,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_45,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,15,35_TDD,TRUE,H,1907,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_46,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,16,36_TDD,TRUE,L,1933,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_47,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,16,36_TDD,TRUE,M,1960,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_48,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,16,36_TDD,TRUE,H,1987,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_49,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,17,25_2,FALSE,L,1933,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_50,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,17,25_2,FALSE,M,1960,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_51,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,17,25_2,FALSE,H,1992,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_52,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,18,66_4_10,FALSE,L,2113,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_53,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,18,66_4_10,FALSE,M,2155,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_54,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,18,66_4_10,FALSE,H,2197,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_55,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,19,1,FALSE,L,2113,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_56,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,19,1,FALSE,M,2140,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_57,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,19,1,FALSE,H,2167,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_58,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,20,HB1_BYPASS ,FALSE,L,1808,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_59,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,20,HB1_BYPASS ,FALSE,M,2013,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_60,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,20,HB1_BYPASS ,FALSE,H,2197,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_61,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,21,30,FALSE,L,2353,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_62,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,21,30,FALSE,M,2355,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_63,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,21,30,FALSE,H,2357,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_64,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,22,7,FALSE,L,2623,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_65,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,22,7,FALSE,M,2655,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_66,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,22,7,FALSE,H,2687,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_67,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,23,40_TDD,TRUE,L,2303,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_68,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,23,40_TDD,TRUE,M,2350,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_69,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,23,40_TDD,TRUE,H,2397,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_70,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,24,38_TDD,TRUE,L,2573,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_71,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,24,38_TDD,TRUE,M,2595,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_72,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,24,38_TDD,TRUE,H,2617,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_73,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,25,41_TDD,TRUE,L,2499,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_74,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,25,41_TDD,TRUE,M,2593,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_75,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,25,41_TDD,TRUE,H,2687,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_76,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,26,2.4GHz_ISM,FALSE,L,2406,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_77,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,26,2.4GHz_ISM,FALSE,M,2448,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_78,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,26,2.4GHz_ISM,FALSE,H,2491,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_79,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,27,HB2_BYPASS ,FALSE,L,2303,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_80,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,27,HB2_BYPASS ,FALSE,M,2495,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_81,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,27,HB2_BYPASS ,FALSE,H,2687,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_82,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,28,48_49_77_42_78_TDD,TRUE,L,3103,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_83,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,28,48_49_77_42_78_TDD,TRUE,M,3750,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_84,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,28,48_49_77_42_78_TDD,TRUE,H,4197,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,35.0,36,0,0
+TEST_85,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,29,79_TDD,TRUE,L,4403,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,33.0,33,0,0
+TEST_86,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,29,79_TDD,TRUE,M,4700,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,33.0,33,0,0
+TEST_87,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,29,79_TDD,TRUE,H,4997,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,33.0,33,0,0
+TEST_88,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,30,46_47_TDD,TRUE,L,5300,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,30.0,30,0,0
+TEST_89,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,30,46_47_TDD,TRUE,M,5600,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,30.0,30,0,0
+TEST_90,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,30,46_47_TDD,TRUE,H,5850,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,30.0,30,0,0
+TEST_91,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,31,5GHz_ISM,FALSE,L,5300,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,30.0,30,0,0
+TEST_92,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,31,5GHz_ISM,FALSE,M,5600,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,30.0,30,0,0
+TEST_93,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,31,5GHz_ISM,FALSE,H,5850,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,30.0,30,0,0
+TEST_94,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,32,HB3 BYPASS ,FALSE,L,3103,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,30.0,30,0,0
+TEST_95,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,32,HB3 BYPASS ,FALSE,M,4500,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,30.0,30,0,0
+TEST_96,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,32,HB3 BYPASS ,FALSE,H,5850,7.0,10.0,2,CW,FALSE,RF In 1,RF Out,32.0,37.0,2.0,6.75,7.25,36,45,70.0,38,30.0,30,0,0

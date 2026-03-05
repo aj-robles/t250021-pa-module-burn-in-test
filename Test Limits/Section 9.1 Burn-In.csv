@@ -1,0 +1,22 @@
+Source File,R5G_Production_Test_Limits_Rev A_DRAFT_10-22-25.xlsx,,,,,,,,,,,,,,,,,,,,,,,,,
+Table Name,Section 9.1 Periodic Functional Tests (RF Gain Test at Burn-In),,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test Number,Test Description,Path,Band,TDD,Band Frequency Config. (L/M/H),Frequency (MHz),Cold PA Input Power (dBm),TBD Hot PA Input Power (dBm),Dwell (s),Signal Type (CW/LTE),Digital Attenuator Overide Set (dB),RF In Port,RF Out Port,Output Power Meas. Lower Limit (dBm),Output Power Meas. Upper Limit (dBm),Output Power Reported to Measured DELTA (dB),Input Power Reported Lower Limit (dBm),Input Power Reported Upper Limit (dBm),Ext DC Power Limit (Watts),Shutdown Ext DC Power (Watts),RF/Analog Reported Temp Limit (C ),Shutdown Measured RF Power (dBm),Expected Output Power at Cold (dBm),TBD Expected Output Power at Hot (dBm),Expected Input Power Reported to Measured DELTA (dB),Expected Output Power Reported to Measured DELTA (dB)
+TEST_34,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,12,3_9,FALSE,L,1808,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_58,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,20,HB1_BYPASS ,FALSE,L,1808,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_35,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,12,3_9,FALSE,M,1843,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_36,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,12,3_9,FALSE,H,1877,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_49,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,17,25_2,FALSE,L,1933,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_50,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,17,25_2,FALSE,M,1960,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_51,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,17,25_2,FALSE,H,1992,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_31,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,11,70,FALSE,L,1998,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_32,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,11,70,FALSE,M,2008,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_59,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,20,HB1_BYPASS ,FALSE,M,2013,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_33,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,11,70,FALSE,H,2017,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_52,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,18,66_4_10,FALSE,L,2113,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_55,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,19,1,FALSE,L,2113,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_56,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,19,1,FALSE,M,2140,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_53,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,18,66_4_10,FALSE,M,2155,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_57,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,19,1,FALSE,H,2167,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_54,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,18,66_4_10,FALSE,H,2197,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0
+TEST_60,T9.1 - Burn-in Periodic Gain Test - Tx Input to Tx Output - 3dB Backoff Power In,20,HB1_BYPASS ,FALSE,H,2197,0,0,2,CW,FALSE,RF In 1,RF Out,-30,-20,2,-10,0,36,45,70,38,35,36,0,0

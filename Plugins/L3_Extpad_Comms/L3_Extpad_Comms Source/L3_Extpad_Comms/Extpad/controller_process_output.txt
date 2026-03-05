@@ -1,0 +1,9 @@
+Process start... waiting for commands
+
+Could not connect to extpad. Closing application.
+Process start... waiting for commands
+
+Could not connect to extpad. Closing application.
+Process start... waiting for commands
+
+Could not connect to extpad. Closing application.

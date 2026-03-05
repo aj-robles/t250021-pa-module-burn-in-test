@@ -1,0 +1,8 @@
+*.lvlps
+*.aliases
+*.tso
+*.opt
+LocalAppData
+GitSettings.json
+Plugins/L3_Extpad_Comms/Extpad/controller_process_output.txt
+Plugins/L3_Extpad_Comms/Extpad/rampaged.log
