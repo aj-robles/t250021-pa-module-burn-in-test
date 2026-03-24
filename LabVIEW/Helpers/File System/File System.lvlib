@@ -4,6 +4,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">620789760</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Get Test Limits Source File Name.vi" Type="VI" URL="../Get Test Limits Source File Name.vi"/>
+	<Item Name="Copy File.vi" Type="VI" URL="../Copy File.vi"/>
+	<Item Name="Delete Files by Pattern.vi" Type="VI" URL="../Delete Files by Pattern.vi"/>
+	<Item Name="Get Newest File Path.vi" Type="VI" URL="../Get Newest File Path.vi"/>
 	<Item Name="Move File.vi" Type="VI" URL="../Move File.vi"/>
 </Library>

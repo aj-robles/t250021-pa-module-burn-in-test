@@ -1,0 +1,4544 @@
+Process start... waiting for commands
+
+Could not connect to extpad. Closing application.
+Process start... waiting for commands
+
+Could not connect to extpad. Closing application.
+Process start... waiting for commands
+
+Could not connect to extpad. Closing application.
+Process start... waiting for commands
+
+Could not connect to extpad. Closing application.
+Process start... waiting for commands
+
+Could not connect to extpad. Closing application.
+Process start... waiting for commands
+
+Could not connect to extpad. Closing application.
+Process start... waiting for commands
+
+Could not connect to extpad. Closing application.
+Process start... waiting for commands
+
+Could not connect to extpad. Closing application.
+Process start... waiting for commands
+
+Could not connect to extpad. Closing application.
+Process start... waiting for commands
+
+Could not connect to extpad. Closing application.
+Process start... waiting for commands
+
+Could not connect to extpad. Closing application.
+Process start... waiting for commands
+processSingleArgumentCommand: -ccadetector
+14.712
+0.028
+0
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processSingleArgumentCommand: -ccadetector
+14.712
+0.028
+0
+processSingleArgumentCommand: -temperature
+22.06
+22.25
+0
+0
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processSingleArgumentCommand: -ccadetector
+14.712
+0.028
+0
+processSingleArgumentCommand: -temperature
+22.75
+22.75
+0
+0
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processSingleArgumentCommand: -ccadetector
+14.712
+0.028
+0
+processSingleArgumentCommand: -temperature
+22.81
+23.25
+0
+0
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processSingleArgumentCommand: -ccadetector
+0.000
+0.000
+0
+processSingleArgumentCommand: -temperature
+0.00
+0.00
+0
+0
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processSingleArgumentCommand: -ccadetector
+0.000
+0.000
+0
+processSingleArgumentCommand: -temperature
+0.00
+0.00
+0
+0
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processSingleArgumentCommand: -ccadetector
+0.000
+0.000
+0
+processSingleArgumentCommand: -temperature
+0.00
+0.00
+0
+0
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processSingleArgumentCommand: -ccadetector
+14.719
+0.028
+0
+processSingleArgumentCommand: -temperature
+24.31
+24.50
+0
+0
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processSingleArgumentCommand: -ccadetector
+15.060
+0.036
+0
+processSingleArgumentCommand: -temperature
+23.69
+24.00
+0
+0
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processSingleArgumentCommand: -ccadetector
+15.060
+0.036
+0
+processSingleArgumentCommand: -temperature
+23.88
+24.00
+0
+0
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 12 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 12 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.31
+24.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 20 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.31
+24.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 12 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.38
+24.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 12 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.38
+24.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 17 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.44
+24.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 17 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.50
+25.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 17 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.705
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.50
+25.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 11 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.56
+25.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 11 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.56
+25.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 20 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.62
+25.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 11 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.69
+25.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 18 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.69
+25.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 19 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.75
+25.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 19 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.75
+25.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 18 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.81
+25.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 19 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.81
+25.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 18 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.705
+0.056
+0
+processSingleArgumentCommand: -temperature
+24.81
+25.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 20 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+20.00
+processSingleArgumentCommand: -autorfpwr
+-29.2
+-29.2
+1645
+1645
+processSingleArgumentCommand: -ccadetector
+14.712
+0.052
+0
+processSingleArgumentCommand: -temperature
+24.88
+25.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 12 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+13.50
+processSingleArgumentCommand: -autorfpwr
+-31.7
+-10.4
+509
+637
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+24.00
+24.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 20 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+15.25
+processSingleArgumentCommand: -autorfpwr
+-31.5
+-10.2
+510
+642
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+24.19
+24.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 12 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+14.00
+processSingleArgumentCommand: -autorfpwr
+-31.9
+-10.9
+509
+630
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+24.31
+24.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 12 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+13.25
+processSingleArgumentCommand: -autorfpwr
+-32.0
+-11.2
+509
+621
+processSingleArgumentCommand: -ccadetector
+15.002
+0.520
+0
+processSingleArgumentCommand: -temperature
+24.38
+24.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 17 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+12.25
+processSingleArgumentCommand: -autorfpwr
+-32.3
+-11.6
+510
+617
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+24.50
+24.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 17 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+12.00
+processSingleArgumentCommand: -autorfpwr
+-32.5
+-11.7
+510
+617
+processSingleArgumentCommand: -ccadetector
+14.995
+0.516
+0
+processSingleArgumentCommand: -temperature
+24.62
+24.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 17 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+10.75
+processSingleArgumentCommand: -autorfpwr
+-32.5
+-11.7
+510
+618
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+24.69
+24.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 11 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.75
+processSingleArgumentCommand: -autorfpwr
+-32.7
+-11.6
+509
+621
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+24.75
+25.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 11 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.75
+processSingleArgumentCommand: -autorfpwr
+-32.8
+-11.5
+509
+624
+processSingleArgumentCommand: -ccadetector
+15.002
+0.520
+0
+processSingleArgumentCommand: -temperature
+24.88
+25.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 20 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+12.75
+processSingleArgumentCommand: -autorfpwr
+-32.5
+-11.5
+509
+623
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+24.94
+25.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 11 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.75
+processSingleArgumentCommand: -autorfpwr
+-32.6
+-11.3
+509
+627
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+25.06
+25.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 18 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+10.00
+processSingleArgumentCommand: -autorfpwr
+-33.1
+-10.9
+510
+645
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+25.12
+25.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 19 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.00
+processSingleArgumentCommand: -autorfpwr
+-32.3
+-11.0
+511
+642
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+25.19
+25.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 19 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+10.75
+processSingleArgumentCommand: -autorfpwr
+-33.4
+-10.5
+511
+655
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+25.25
+25.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 18 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+10.00
+processSingleArgumentCommand: -autorfpwr
+-33.4
+-10.1
+512
+665
+processSingleArgumentCommand: -ccadetector
+15.002
+0.520
+0
+processSingleArgumentCommand: -temperature
+25.31
+25.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 19 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+9.00
+processSingleArgumentCommand: -autorfpwr
+-32.8
+-10.2
+512
+664
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+25.44
+25.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 18 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+8.25
+processSingleArgumentCommand: -autorfpwr
+-32.4
+-9.8
+511
+681
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+25.50
+25.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 20 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+10.00
+processSingleArgumentCommand: -autorfpwr
+-32.3
+-9.8
+511
+680
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+25.56
+25.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 1 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+8.25
+processSingleArgumentCommand: -autorfpwr
+-25.1
+-1.0
+510
+701
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+25.38
+25.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 1 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+10.25
+processSingleArgumentCommand: -autorfpwr
+-25.2
+-2.1
+510
+675
+processSingleArgumentCommand: -ccadetector
+15.010
+0.399
+0
+processSingleArgumentCommand: -temperature
+25.56
+25.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 1 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.50
+processSingleArgumentCommand: -autorfpwr
+-25.4
+-3.9
+509
+628
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+25.69
+26.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 2 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+10.75
+processSingleArgumentCommand: -autorfpwr
+-26.2
+-4.7
+510
+631
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+25.81
+26.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 2 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.25
+processSingleArgumentCommand: -autorfpwr
+-26.2
+-1.9
+511
+717
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+25.88
+26.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 2 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+10.75
+processSingleArgumentCommand: -autorfpwr
+-26.3
+-5.2
+510
+618
+processSingleArgumentCommand: -ccadetector
+15.017
+0.399
+0
+processSingleArgumentCommand: -temperature
+25.94
+26.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 3 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+12.75
+processSingleArgumentCommand: -autorfpwr
+-26.4
+-2.1
+511
+715
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.00
+26.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 3 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+14.25
+processSingleArgumentCommand: -autorfpwr
+-26.5
+-1.8
+510
+729
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.06
+26.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 3 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+13.25
+processSingleArgumentCommand: -autorfpwr
+-26.7
+-2.8
+510
+701
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.12
+26.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 4 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+13.00
+processSingleArgumentCommand: -autorfpwr
+-26.6
+-0.8
+511
+758
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.12
+27.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 4 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+13.75
+processSingleArgumentCommand: -autorfpwr
+-26.7
+-1.3
+511
+745
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.19
+27.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 4 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+12.50
+processSingleArgumentCommand: -autorfpwr
+-26.8
+-0.4
+510
+776
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.25
+27.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 5 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.25
+processSingleArgumentCommand: -autorfpwr
+-26.4
+-0.7
+511
+753
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.25
+27.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 5 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.50
+processSingleArgumentCommand: -autorfpwr
+-26.3
+-1.5
+510
+732
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.31
+27.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 5 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+12.25
+processSingleArgumentCommand: -autorfpwr
+-26.4
+-3.0
+510
+689
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.38
+27.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 6 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.75
+processSingleArgumentCommand: -autorfpwr
+-26.4
+-2.6
+510
+698
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.44
+27.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 6 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+12.75
+processSingleArgumentCommand: -autorfpwr
+-26.5
+-3.0
+510
+690
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.44
+27.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 6 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+13.25
+processSingleArgumentCommand: -autorfpwr
+-26.5
+-4.8
+510
+636
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.50
+27.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 7 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.25
+processSingleArgumentCommand: -autorfpwr
+-26.8
+-3.8
+510
+671
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.56
+27.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 7 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+13.50
+processSingleArgumentCommand: -autorfpwr
+-26.7
+-1.1
+511
+758
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.56
+27.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 7 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+12.50
+processSingleArgumentCommand: -autorfpwr
+-27.0
+-1.3
+511
+755
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.56
+26.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 1 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+8.25
+processSingleArgumentCommand: -autorfpwr
+-25.1
+-1.0
+510
+701
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+25.56
+25.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 1 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+10.25
+processSingleArgumentCommand: -autorfpwr
+-25.2
+-2.1
+510
+675
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+25.75
+26.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 1 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.50
+processSingleArgumentCommand: -autorfpwr
+-25.4
+-3.9
+509
+629
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+25.88
+26.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 2 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+10.75
+processSingleArgumentCommand: -autorfpwr
+-26.2
+-4.7
+510
+632
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.00
+26.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 2 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.25
+processSingleArgumentCommand: -autorfpwr
+-26.2
+-1.9
+511
+717
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.12
+26.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 2 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+10.75
+processSingleArgumentCommand: -autorfpwr
+-26.3
+-5.2
+510
+619
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.19
+27.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 3 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+12.75
+processSingleArgumentCommand: -autorfpwr
+-26.4
+-2.1
+511
+715
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.25
+27.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 3 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+14.25
+processSingleArgumentCommand: -autorfpwr
+-26.5
+-1.8
+511
+729
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.31
+26.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 3 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+13.25
+processSingleArgumentCommand: -autorfpwr
+-26.7
+-2.8
+510
+700
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.38
+27.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 4 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+13.00
+processSingleArgumentCommand: -autorfpwr
+-26.6
+-0.8
+511
+758
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.44
+27.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 4 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+13.75
+processSingleArgumentCommand: -autorfpwr
+-26.7
+-1.3
+511
+745
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.44
+27.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 4 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+12.50
+processSingleArgumentCommand: -autorfpwr
+-26.8
+-0.4
+511
+775
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.50
+27.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 5 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.25
+processSingleArgumentCommand: -autorfpwr
+-26.4
+-0.7
+510
+752
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.56
+27.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 5 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.50
+processSingleArgumentCommand: -autorfpwr
+-26.3
+-1.5
+510
+731
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.62
+27.50
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 5 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+12.25
+processSingleArgumentCommand: -autorfpwr
+-26.4
+-3.0
+511
+689
+processSingleArgumentCommand: -ccadetector
+15.017
+0.399
+0
+processSingleArgumentCommand: -temperature
+26.69
+27.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 6 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.75
+processSingleArgumentCommand: -autorfpwr
+-26.4
+-2.6
+510
+697
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.69
+27.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 6 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+12.75
+processSingleArgumentCommand: -autorfpwr
+-26.5
+-3.0
+510
+688
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.75
+27.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 6 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+13.25
+processSingleArgumentCommand: -autorfpwr
+-26.5
+-4.9
+510
+635
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.81
+27.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 7 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.25
+processSingleArgumentCommand: -autorfpwr
+-26.8
+-3.9
+510
+670
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.88
+27.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 7 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+13.50
+processSingleArgumentCommand: -autorfpwr
+-26.7
+-1.1
+511
+757
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.88
+28.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 7 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+12.50
+processSingleArgumentCommand: -autorfpwr
+-27.0
+-1.3
+511
+754
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+26.94
+27.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 8 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+10.75
+processSingleArgumentCommand: -autorfpwr
+-27.1
+-0.3
+512
+796
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+27.00
+28.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 8 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+12.00
+processSingleArgumentCommand: -autorfpwr
+-27.3
+-0.9
+511
+780
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+27.00
+27.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 8 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+10.75
+processSingleArgumentCommand: -autorfpwr
+-27.4
+-2.3
+511
+742
+processSingleArgumentCommand: -ccadetector
+15.010
+0.403
+0
+processSingleArgumentCommand: -temperature
+27.06
+28.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 9 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+7.75
+processSingleArgumentCommand: -autorfpwr
+-27.6
+-4.4
+510
+686
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+27.12
+28.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 9 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+8.00
+processSingleArgumentCommand: -autorfpwr
+-27.8
+-3.4
+511
+725
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+27.12
+28.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 9 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+6.50
+processSingleArgumentCommand: -autorfpwr
+-27.9
+-3.8
+511
+710
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+27.19
+28.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 10 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+10.25
+processSingleArgumentCommand: -autorfpwr
+-24.9
+-3.1
+510
+639
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+27.25
+28.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 10 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+16.25
+processSingleArgumentCommand: -autorfpwr
+-26.6
+-4.5
+510
+653
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+27.25
+28.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 10 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+10.25
+processSingleArgumentCommand: -autorfpwr
+-27.7
+-5.7
+510
+657
+processSingleArgumentCommand: -ccadetector
+15.017
+0.403
+0
+processSingleArgumentCommand: -temperature
+27.31
+28.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 11 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.75
+processSingleArgumentCommand: -autorfpwr
+-32.7
+-11.0
+510
+640
+processSingleArgumentCommand: -ccadetector
+14.995
+0.524
+0
+processSingleArgumentCommand: -temperature
+27.31
+28.25
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 11 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.75
+processSingleArgumentCommand: -autorfpwr
+-32.8
+-10.7
+510
+649
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+27.38
+27.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 11 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+11.75
+processSingleArgumentCommand: -autorfpwr
+-32.6
+-10.3
+510
+658
+processSingleArgumentCommand: -ccadetector
+14.995
+0.524
+0
+processSingleArgumentCommand: -temperature
+27.38
+28.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 12 0 0
+
+1
+processSingleArgumentCommand: -getattenuation
+13.50
+processSingleArgumentCommand: -autorfpwr
+-31.7
+-8.9
+510
+681
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+27.44
+27.75
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 12 1 0
+
+1
+processSingleArgumentCommand: -getattenuation
+14.00
+processSingleArgumentCommand: -autorfpwr
+-31.9
+-9.8
+510
+663
+processSingleArgumentCommand: -ccadetector
+15.002
+0.524
+0
+processSingleArgumentCommand: -temperature
+27.50
+28.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 12 2 0
+
+1
+processSingleArgumentCommand: -getattenuation
+13.25
+processSingleArgumentCommand: -autorfpwr
+-32.0
+-10.8
+510
+635
+processSingleArgumentCommand: -ccadetector
+14.995
+0.520
+0
+processSingleArgumentCommand: -temperature
+27.50
+28.00
+0
+0
+processSingleArgumentCommand: -pafaults
+0
+processSingleArgumentCommand: -pafaultstatus
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+processSingleArgumentCommand: -disable
+1
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processSingleArgumentCommand: -ccadetector
+15.060
+0.036
+0
+processSingleArgumentCommand: -temperature
+22.62
+22.50
+0
+0
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processSingleArgumentCommand: -ccadetector
+15.060
+0.036
+0
+processSingleArgumentCommand: -temperature
+27.56
+27.75
+0
+0
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processSingleArgumentCommand: -ccadetector
+15.060
+0.036
+0
+processSingleArgumentCommand: -temperature
+26.31
+26.50
+0
+0
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processSingleArgumentCommand: -ccadetector
+15.053
+0.036
+0
+processSingleArgumentCommand: -temperature
+25.06
+25.50
+0
+0
+processMultiArgumentCommand: -autosetpath 13 0 1
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processSingleArgumentCommand: -ccadetector
+15.060
+0.036
+0
+processSingleArgumentCommand: -temperature
+22.81
+23.25
+0
+0
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 1883 1
+Invalid frequency range (1883) passed to argument "-autosetpath". Valid values are from 0 to 2
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 1883 1
+Invalid frequency range (1883) passed to argument "-autosetpath". Valid values are from 0 to 2
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 12 2 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 12 2 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 
+Process start... waiting for commands
+processMultiArgumentCommand: -autosetpath 13 0 0
+
+1
+ConnectorProcess stopped. 

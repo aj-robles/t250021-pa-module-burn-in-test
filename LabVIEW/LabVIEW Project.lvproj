@@ -15,6 +15,7 @@
 		<Item Name="Helpers" Type="Folder">
 			<Item Name="Calibration.lvlib" Type="Library" URL="../Helpers/Calibration/Calibration.lvlib"/>
 			<Item Name="File System.lvlib" Type="Library" URL="../Helpers/File System/File System.lvlib"/>
+			<Item Name="Test Limits.lvlib" Type="Library" URL="../Helpers/Test Limits.lvlib"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>

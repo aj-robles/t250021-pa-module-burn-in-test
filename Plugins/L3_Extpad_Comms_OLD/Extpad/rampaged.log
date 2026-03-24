@@ -1,0 +1,1675 @@
+2025-12-01 22:13:19.174 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-01 22:13:19.178 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-01 22:13:20.837 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-01 22:13:22.951 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-01 22:13:23.373 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-01 22:13:23.373 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-01 22:13:23.379 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-01 22:13:23.379 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-01 22:13:23.379 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-01 22:13:23.383 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-01 22:13:23.383 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-01 22:13:23.383 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-01 22:13:28.084 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-01 22:13:31.099 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-02 16:00:37.042 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-02 16:00:37.044 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-02 16:00:38.773 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-02 16:00:38.784 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-02 16:00:38.784 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-02 16:00:38.808 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 HW Version ID: 0, Analog Version ID: 0, Analog Config ID: 0
+2025-12-02 16:00:38.809 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 Calibration Date: 9999-99-99 12:34:56
+2025-12-02 16:00:38.811 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 Elapsed Time: 00:21:34, Event Counter: 33
+2025-12-02 16:00:38.813 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-02 16:00:38.814 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-02 16:00:38.815 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-02 16:00:38.817 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-02 16:00:38.819 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-02 16:00:38.821 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-02 16:00:38.823 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-02 16:00:38.825 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-02 16:00:38.825 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-02 16:00:38.942 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:51426], Connection ID: [2]
+2025-12-02 16:01:06.319 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:51426], Connection ID: [2]
+2025-12-02 16:09:38.928 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-02 16:09:38.931 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-02 16:09:40.625 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-02 16:09:40.635 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-02 16:09:40.638 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-02 16:09:40.661 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 HW Version ID: 0, Analog Version ID: 0, Analog Config ID: 0
+2025-12-02 16:09:40.663 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 Calibration Date: 9999-99-99 12:34:56
+2025-12-02 16:09:40.664 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 Elapsed Time: 00:21:34, Event Counter: 33
+2025-12-02 16:09:40.666 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-02 16:09:40.667 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-02 16:09:40.667 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-02 16:09:40.667 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-02 16:09:40.668 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-02 16:09:40.668 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-02 16:09:40.670 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-02 16:09:40.672 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-02 16:09:40.672 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-02 16:09:41.016 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:50000], Connection ID: [2]
+2025-12-02 16:10:11.168 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:50000], Connection ID: [2]
+2025-12-02 22:46:20.164 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-02 22:46:20.167 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-02 22:46:21.860 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-02 22:46:21.870 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-02 22:46:21.871 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-02 22:46:21.892 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 HW Version ID: 0, Analog Version ID: 0, Analog Config ID: 0
+2025-12-02 22:46:21.894 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 Calibration Date: 9999-99-99 12:34:56
+2025-12-02 22:46:21.896 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 Elapsed Time: 00:21:34, Event Counter: 33
+2025-12-02 22:46:21.898 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-02 22:46:21.898 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-02 22:46:21.899 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-02 22:46:21.899 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-02 22:46:21.900 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-02 22:46:21.900 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-02 22:46:21.902 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-02 22:46:21.903 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-02 22:46:21.904 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-02 22:46:22.225 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53263], Connection ID: [2]
+2025-12-02 22:47:48.881 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53263], Connection ID: [2]
+2025-12-02 22:57:08.854 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-02 22:57:08.855 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-02 22:57:10.555 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-02 22:57:10.565 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-02 22:57:10.566 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-02 22:57:10.587 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 HW Version ID: 0, Analog Version ID: 0, Analog Config ID: 0
+2025-12-02 22:57:10.589 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 Calibration Date: 9999-99-99 12:34:56
+2025-12-02 22:57:10.591 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 Elapsed Time: 00:21:34, Event Counter: 33
+2025-12-02 22:57:10.592 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-02 22:57:10.593 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-02 22:57:10.593 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-02 22:57:10.593 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-02 22:57:10.594 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-02 22:57:10.594 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-02 22:57:10.596 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-02 22:57:10.597 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-02 22:57:10.597 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-02 22:57:10.819 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53333], Connection ID: [2]
+2025-12-02 22:58:44.835 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53333], Connection ID: [2]
+2025-12-11 19:26:37.642 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 19:26:37.644 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-11 19:26:37.861 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-11 19:26:37.863 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 19:26:37.864 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-11 19:26:37.865 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-11 19:26:37.866 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-11 19:26:37.868 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-11 19:26:37.869 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-11 19:26:37.869 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-11 19:26:39.185 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53653], Connection ID: [2]
+2025-12-11 19:27:10.780 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53653], Connection ID: [2]
+2025-12-11 19:31:00.205 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 19:31:00.206 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-11 19:31:00.448 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-11 19:31:00.450 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 19:31:00.451 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-11 19:31:00.452 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-11 19:31:00.453 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-11 19:31:00.455 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-11 19:31:00.457 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-11 19:31:00.458 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-11 19:31:01.648 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53699], Connection ID: [2]
+2025-12-11 19:31:11.840 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53699], Connection ID: [2]
+2025-12-11 19:32:10.445 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 19:32:10.447 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-11 19:32:10.630 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-11 19:32:10.632 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 19:32:10.633 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-11 19:32:10.635 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-11 19:32:10.635 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-11 19:32:10.637 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-11 19:32:10.638 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-11 19:32:10.639 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-11 19:32:11.917 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53717], Connection ID: [2]
+2025-12-11 19:32:22.526 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53717], Connection ID: [2]
+2025-12-11 19:33:55.155 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 19:33:55.158 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-11 19:33:56.854 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-11 19:33:56.865 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-11 19:33:56.865 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-11 19:33:56.884 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 HW Version ID: 0, Analog Version ID: 0, Analog Config ID: 0
+2025-12-11 19:33:56.886 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 Calibration Date: 9999-99-99 12:34:56
+2025-12-11 19:33:56.888 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 Elapsed Time: 00:21:34, Event Counter: 33
+2025-12-11 19:33:56.890 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-11 19:33:56.891 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-11 19:33:56.891 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 19:33:56.891 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-11 19:33:56.892 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-11 19:33:56.892 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-11 19:33:56.894 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-11 19:33:56.895 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-11 19:33:56.895 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-11 19:33:57.183 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53743], Connection ID: [2]
+2025-12-11 19:34:18.395 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53743], Connection ID: [2]
+2025-12-11 19:44:46.132 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 19:44:46.133 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-11 19:44:47.799 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-11 19:44:47.809 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-11 19:44:47.810 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-11 19:44:47.829 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2025-12-11 19:44:47.831 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2025-12-11 19:44:47.832 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 19:17:47, Event Counter: 1442
+2025-12-11 19:44:47.834 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-11 19:44:47.835 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-11 19:44:47.835 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 19:44:47.836 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-11 19:44:47.838 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-11 19:44:47.839 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-11 19:44:47.841 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-11 19:44:47.842 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-11 19:44:47.842 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-11 19:44:48.160 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53810], Connection ID: [2]
+2025-12-11 19:45:02.599 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53810], Connection ID: [2]
+2025-12-11 19:45:57.606 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 19:45:57.606 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-11 19:45:59.334 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-11 19:45:59.341 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-11 19:45:59.341 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-11 19:45:59.361 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2025-12-11 19:45:59.363 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2025-12-11 19:45:59.365 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 19:17:47, Event Counter: 1442
+2025-12-11 19:45:59.367 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-11 19:45:59.367 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-11 19:45:59.368 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 19:45:59.368 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-11 19:45:59.369 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-11 19:45:59.369 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-11 19:45:59.371 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-11 19:45:59.372 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-11 19:45:59.372 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-11 19:45:59.647 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53830], Connection ID: [2]
+2025-12-11 19:46:12.264 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53830], Connection ID: [2]
+2025-12-11 20:16:14.827 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 20:16:14.829 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-11 20:16:16.501 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-11 20:16:16.512 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-11 20:16:16.513 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-11 20:16:16.537 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 HW Version ID: 0, Analog Version ID: 0, Analog Config ID: 0
+2025-12-11 20:16:16.539 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 Calibration Date: 9999-99-99 12:34:56
+2025-12-11 20:16:16.541 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 Elapsed Time: 00:21:34, Event Counter: 33
+2025-12-11 20:16:16.543 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-11 20:16:16.543 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-11 20:16:16.544 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 20:16:16.544 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-11 20:16:16.544 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-11 20:16:16.545 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-11 20:16:16.547 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-11 20:16:16.547 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-11 20:16:16.548 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-11 20:16:16.862 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:52337], Connection ID: [2]
+2025-12-11 20:16:19.068 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 12, Frequency Type 0
+2025-12-11 20:16:19.076 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 12
+2025-12-11 20:16:19.917 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_3_9 (12).
+2025-12-11 20:16:19.921 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:16:20.926 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:16:36.887 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:52337], Connection ID: [2]
+2025-12-11 20:17:31.275 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 20:17:31.279 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-11 20:17:32.953 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-11 20:17:32.964 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-11 20:17:32.965 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-11 20:17:32.986 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 HW Version ID: 0, Analog Version ID: 0, Analog Config ID: 0
+2025-12-11 20:17:32.988 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 Calibration Date: 9999-99-99 12:34:56
+2025-12-11 20:17:32.989 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-9999 Elapsed Time: 00:21:52, Event Counter: 34
+2025-12-11 20:17:32.991 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-11 20:17:32.992 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-11 20:17:32.992 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 20:17:32.992 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-11 20:17:32.993 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-11 20:17:32.993 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-11 20:17:32.995 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-11 20:17:32.996 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-11 20:17:32.997 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-11 20:17:33.206 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:52362], Connection ID: [2]
+2025-12-11 20:17:35.275 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 12, Frequency Type 0
+2025-12-11 20:17:35.283 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 12
+2025-12-11 20:17:36.122 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_3_9 (12).
+2025-12-11 20:17:36.125 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:17:37.141 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:17:45.321 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 20, Frequency Type 0
+2025-12-11 20:17:45.328 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 20
+2025-12-11 20:17:46.173 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_HB1_BYPASS (20).
+2025-12-11 20:17:46.177 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:17:47.184 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:17:55.476 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 12, Frequency Type 1
+2025-12-11 20:17:55.485 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 12
+2025-12-11 20:17:56.330 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_3_9 (12).
+2025-12-11 20:17:56.333 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:17:57.343 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:18:05.642 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 12, Frequency Type 2
+2025-12-11 20:18:05.649 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 12
+2025-12-11 20:18:06.503 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_3_9 (12).
+2025-12-11 20:18:06.506 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:18:07.513 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:18:15.847 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 17, Frequency Type 0
+2025-12-11 20:18:15.854 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 17
+2025-12-11 20:18:16.697 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_2_25 (17).
+2025-12-11 20:18:16.701 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:18:17.709 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:18:25.823 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 17, Frequency Type 1
+2025-12-11 20:18:25.832 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 17
+2025-12-11 20:18:26.673 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_2_25 (17).
+2025-12-11 20:18:26.677 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:18:27.685 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:18:35.941 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 17, Frequency Type 2
+2025-12-11 20:18:35.949 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 17
+2025-12-11 20:18:36.799 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_2_25 (17).
+2025-12-11 20:18:36.802 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:18:37.810 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:18:45.961 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 11, Frequency Type 0
+2025-12-11 20:18:45.968 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 11
+2025-12-11 20:18:46.822 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_70 (11).
+2025-12-11 20:18:46.825 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:18:47.834 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.705 V, CCA Current: 0.056 A
+2025-12-11 20:18:56.030 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 11, Frequency Type 1
+2025-12-11 20:18:56.038 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 11
+2025-12-11 20:18:56.880 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_70 (11).
+2025-12-11 20:18:56.883 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:18:57.893 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:19:06.231 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 20, Frequency Type 1
+2025-12-11 20:19:06.238 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 20
+2025-12-11 20:19:07.074 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_HB1_BYPASS (20).
+2025-12-11 20:19:07.077 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:19:08.086 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:19:16.248 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 11, Frequency Type 2
+2025-12-11 20:19:16.256 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 11
+2025-12-11 20:19:17.096 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_70 (11).
+2025-12-11 20:19:17.100 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:19:18.108 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:19:26.312 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 18, Frequency Type 0
+2025-12-11 20:19:26.319 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 18
+2025-12-11 20:19:27.162 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_4_10_66 (18).
+2025-12-11 20:19:27.165 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:19:28.176 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:19:36.395 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 19, Frequency Type 0
+2025-12-11 20:19:36.402 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 19
+2025-12-11 20:19:37.251 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_1 (19).
+2025-12-11 20:19:37.254 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:19:38.263 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:19:46.445 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 19, Frequency Type 1
+2025-12-11 20:19:46.454 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 19
+2025-12-11 20:19:47.295 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_1 (19).
+2025-12-11 20:19:47.297 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:19:48.306 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:19:56.591 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 18, Frequency Type 1
+2025-12-11 20:19:56.598 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 18
+2025-12-11 20:19:57.439 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_4_10_66 (18).
+2025-12-11 20:19:57.442 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:19:58.451 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:20:06.555 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 19, Frequency Type 2
+2025-12-11 20:20:06.563 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 19
+2025-12-11 20:20:07.414 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_1 (19).
+2025-12-11 20:20:07.417 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:20:08.428 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:20:16.874 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 18, Frequency Type 2
+2025-12-11 20:20:16.881 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 18
+2025-12-11 20:20:17.720 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_4_10_66 (18).
+2025-12-11 20:20:17.724 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:20:18.731 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:20:27.076 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 20, Frequency Type 2
+2025-12-11 20:20:27.082 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 20
+2025-12-11 20:20:27.932 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_HB1_BYPASS (20).
+2025-12-11 20:20:27.935 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -3.500 V, Drain Current 0.002 A
+2025-12-11 20:20:28.944 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -29.2 dBm, RF Output Power: -29.2 dBm, CCA Voltage: 14.712 V, CCA Current: 0.056 A
+2025-12-11 20:20:36.825 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:52362], Connection ID: [2]
+2025-12-11 20:23:21.416 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 20:23:21.418 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-11 20:23:23.085 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-11 20:23:23.093 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-11 20:23:23.093 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-11 20:23:23.117 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2025-12-11 20:23:23.119 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2025-12-11 20:23:23.121 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 19:17:47, Event Counter: 1442
+2025-12-11 20:23:23.122 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-11 20:23:23.123 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-11 20:23:23.123 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 20:23:23.124 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-11 20:23:23.124 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-11 20:23:23.125 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-11 20:23:23.126 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-11 20:23:23.127 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-11 20:23:23.128 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-11 20:23:23.412 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:52788], Connection ID: [2]
+2025-12-11 20:23:25.406 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 12, Frequency Type 0
+2025-12-11 20:23:25.415 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 12
+2025-12-11 20:23:26.373 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_3_9 (12).
+2025-12-11 20:23:26.375 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.082 A
+2025-12-11 20:23:27.388 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -31.7 dBm, RF Output Power: -10.4 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:23:34.721 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 20, Frequency Type 0
+2025-12-11 20:23:34.727 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 20
+2025-12-11 20:23:35.676 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_HB1_BYPASS (20).
+2025-12-11 20:23:35.681 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.083 A
+2025-12-11 20:23:36.689 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -31.5 dBm, RF Output Power: -10.2 dBm, CCA Voltage: 14.995 V, CCA Current: 0.524 A
+2025-12-11 20:23:43.747 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 12, Frequency Type 1
+2025-12-11 20:23:43.754 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 12
+2025-12-11 20:23:44.704 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_3_9 (12).
+2025-12-11 20:23:44.709 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2025-12-11 20:23:45.717 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -31.9 dBm, RF Output Power: -10.9 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:23:52.916 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 12, Frequency Type 2
+2025-12-11 20:23:52.923 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 12
+2025-12-11 20:23:53.885 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_3_9 (12).
+2025-12-11 20:23:53.888 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2025-12-11 20:23:54.899 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.0 dBm, RF Output Power: -11.2 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:24:02.053 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 17, Frequency Type 0
+2025-12-11 20:24:02.061 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 17
+2025-12-11 20:24:03.018 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_2_25 (17).
+2025-12-11 20:24:03.021 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.082 A
+2025-12-11 20:24:04.028 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.3 dBm, RF Output Power: -11.6 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:24:11.196 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 17, Frequency Type 1
+2025-12-11 20:24:11.203 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 17
+2025-12-11 20:24:12.165 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_2_25 (17).
+2025-12-11 20:24:12.168 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2025-12-11 20:24:13.176 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.5 dBm, RF Output Power: -11.7 dBm, CCA Voltage: 14.995 V, CCA Current: 0.516 A
+2025-12-11 20:24:20.497 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 17, Frequency Type 2
+2025-12-11 20:24:20.504 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 17
+2025-12-11 20:24:21.464 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_2_25 (17).
+2025-12-11 20:24:21.467 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.083 A
+2025-12-11 20:24:22.475 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.5 dBm, RF Output Power: -11.7 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:24:29.730 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 11, Frequency Type 0
+2025-12-11 20:24:29.738 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 11
+2025-12-11 20:24:30.697 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_70 (11).
+2025-12-11 20:24:30.699 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2025-12-11 20:24:31.705 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.7 dBm, RF Output Power: -11.6 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:24:39.027 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 11, Frequency Type 1
+2025-12-11 20:24:39.035 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 11
+2025-12-11 20:24:39.989 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_70 (11).
+2025-12-11 20:24:39.993 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2025-12-11 20:24:40.998 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.8 dBm, RF Output Power: -11.5 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:24:48.151 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 20, Frequency Type 1
+2025-12-11 20:24:48.159 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 20
+2025-12-11 20:24:49.118 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_HB1_BYPASS (20).
+2025-12-11 20:24:49.120 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.082 A
+2025-12-11 20:24:50.134 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.5 dBm, RF Output Power: -11.5 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:24:57.313 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 11, Frequency Type 2
+2025-12-11 20:24:57.320 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 11
+2025-12-11 20:24:58.269 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_70 (11).
+2025-12-11 20:24:58.272 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2025-12-11 20:24:59.281 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.6 dBm, RF Output Power: -11.4 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:25:06.479 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 18, Frequency Type 0
+2025-12-11 20:25:06.486 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 18
+2025-12-11 20:25:07.432 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_4_10_66 (18).
+2025-12-11 20:25:07.434 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2025-12-11 20:25:08.444 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -33.1 dBm, RF Output Power: -10.9 dBm, CCA Voltage: 15.002 V, CCA Current: 0.520 A
+2025-12-11 20:25:15.609 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 19, Frequency Type 0
+2025-12-11 20:25:15.616 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 19
+2025-12-11 20:25:16.568 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_1 (19).
+2025-12-11 20:25:16.572 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2025-12-11 20:25:17.579 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.3 dBm, RF Output Power: -11.0 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:25:24.814 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 19, Frequency Type 1
+2025-12-11 20:25:24.821 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 19
+2025-12-11 20:25:25.774 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_1 (19).
+2025-12-11 20:25:25.777 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2025-12-11 20:25:26.788 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -33.4 dBm, RF Output Power: -10.5 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:25:34.017 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 18, Frequency Type 1
+2025-12-11 20:25:34.027 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 18
+2025-12-11 20:25:34.984 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_4_10_66 (18).
+2025-12-11 20:25:34.987 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2025-12-11 20:25:35.998 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -33.4 dBm, RF Output Power: -10.1 dBm, CCA Voltage: 15.002 V, CCA Current: 0.520 A
+2025-12-11 20:25:43.128 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 19, Frequency Type 2
+2025-12-11 20:25:43.135 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 19
+2025-12-11 20:25:44.083 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_1 (19).
+2025-12-11 20:25:44.087 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2025-12-11 20:25:45.105 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.8 dBm, RF Output Power: -10.2 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:25:52.137 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 18, Frequency Type 2
+2025-12-11 20:25:52.145 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 18
+2025-12-11 20:25:53.098 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_4_10_66 (18).
+2025-12-11 20:25:53.103 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2025-12-11 20:25:54.123 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.3 dBm, RF Output Power: -9.8 dBm, CCA Voltage: 14.995 V, CCA Current: 0.516 A
+2025-12-11 20:26:01.268 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 20, Frequency Type 2
+2025-12-11 20:26:01.275 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 20
+2025-12-11 20:26:02.240 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_HB1_BYPASS (20).
+2025-12-11 20:26:02.244 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2025-12-11 20:26:03.247 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.2 dBm, RF Output Power: -9.8 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:26:10.132 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:52788], Connection ID: [2]
+2025-12-11 20:31:19.424 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 20:31:19.427 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-11 20:31:21.092 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-11 20:31:21.103 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-11 20:31:21.103 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-11 20:31:21.126 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2025-12-11 20:31:21.128 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2025-12-11 20:31:21.130 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 19:20:01, Event Counter: 1460
+2025-12-11 20:31:21.132 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-11 20:31:21.132 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-11 20:31:21.132 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 20:31:21.133 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-11 20:31:21.133 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-11 20:31:21.134 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-11 20:31:21.135 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-11 20:31:21.136 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-11 20:31:21.137 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-11 20:31:21.374 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53270], Connection ID: [2]
+2025-12-11 20:31:23.347 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 1, Frequency Type 0
+2025-12-11 20:31:23.354 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 1
+2025-12-11 20:31:24.305 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_71 (1).
+2025-12-11 20:31:24.308 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.079 A
+2025-12-11 20:31:25.315 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -25.1 dBm, RF Output Power: -1.0 dBm, CCA Voltage: 15.017 V, CCA Current: 0.399 A
+2025-12-11 20:31:32.435 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 1, Frequency Type 1
+2025-12-11 20:31:32.442 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 1
+2025-12-11 20:31:33.401 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_71 (1).
+2025-12-11 20:31:33.405 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.081 A
+2025-12-11 20:31:34.412 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -25.2 dBm, RF Output Power: -2.1 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:31:41.582 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 1, Frequency Type 2
+2025-12-11 20:31:41.590 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 1
+2025-12-11 20:31:42.551 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_71 (1).
+2025-12-11 20:31:42.555 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.083 A
+2025-12-11 20:31:43.561 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -25.4 dBm, RF Output Power: -3.9 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:31:50.707 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 2, Frequency Type 0
+2025-12-11 20:31:50.716 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 2
+2025-12-11 20:31:51.678 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_12_17_85 (2).
+2025-12-11 20:31:51.681 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.081 A
+2025-12-11 20:31:52.687 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.2 dBm, RF Output Power: -4.7 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:31:59.902 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 2, Frequency Type 1
+2025-12-11 20:31:59.909 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 2
+2025-12-11 20:32:00.872 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_12_17_85 (2).
+2025-12-11 20:32:00.875 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.083 A
+2025-12-11 20:32:01.885 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.2 dBm, RF Output Power: -1.9 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:32:09.317 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 2, Frequency Type 2
+2025-12-11 20:32:09.324 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 2
+2025-12-11 20:32:10.282 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_12_17_85 (2).
+2025-12-11 20:32:10.286 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.083 A
+2025-12-11 20:32:11.292 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.3 dBm, RF Output Power: -5.2 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:32:18.674 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 3, Frequency Type 0
+2025-12-11 20:32:18.682 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 3
+2025-12-11 20:32:19.632 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_28A (3).
+2025-12-11 20:32:19.634 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:32:20.645 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.4 dBm, RF Output Power: -2.1 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:32:27.875 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 3, Frequency Type 1
+2025-12-11 20:32:27.883 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 3
+2025-12-11 20:32:28.843 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_28A (3).
+2025-12-11 20:32:28.846 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.083 A
+2025-12-11 20:32:29.856 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.5 dBm, RF Output Power: -1.8 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:32:37.196 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 3, Frequency Type 2
+2025-12-11 20:32:37.204 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 3
+2025-12-11 20:32:38.156 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_28A (3).
+2025-12-11 20:32:38.159 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:32:39.176 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.7 dBm, RF Output Power: -2.8 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:32:46.356 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 4, Frequency Type 0
+2025-12-11 20:32:46.364 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 4
+2025-12-11 20:32:47.312 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_28B (4).
+2025-12-11 20:32:47.315 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:32:48.322 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.6 dBm, RF Output Power: -0.8 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:32:55.764 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 4, Frequency Type 1
+2025-12-11 20:32:55.771 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 4
+2025-12-11 20:32:56.722 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_28B (4).
+2025-12-11 20:32:56.725 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.083 A
+2025-12-11 20:32:57.735 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.7 dBm, RF Output Power: -1.3 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:33:04.930 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 4, Frequency Type 2
+2025-12-11 20:33:04.937 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 4
+2025-12-11 20:33:05.900 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_28B (4).
+2025-12-11 20:33:05.903 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:33:06.912 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.8 dBm, RF Output Power: -0.4 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:33:14.185 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 5, Frequency Type 0
+2025-12-11 20:33:14.195 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 5
+2025-12-11 20:33:15.145 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_13 (5).
+2025-12-11 20:33:15.149 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.083 A
+2025-12-11 20:33:16.158 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.4 dBm, RF Output Power: -0.7 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:33:23.330 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 5, Frequency Type 1
+2025-12-11 20:33:23.339 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 5
+2025-12-11 20:33:24.286 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_13 (5).
+2025-12-11 20:33:24.288 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.081 A
+2025-12-11 20:33:25.298 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.3 dBm, RF Output Power: -1.5 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:33:32.515 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 5, Frequency Type 2
+2025-12-11 20:33:32.523 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 5
+2025-12-11 20:33:33.479 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_13 (5).
+2025-12-11 20:33:33.481 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:33:34.493 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.4 dBm, RF Output Power: -3.0 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:33:41.794 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 6, Frequency Type 0
+2025-12-11 20:33:41.802 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 6
+2025-12-11 20:33:42.755 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_14 (6).
+2025-12-11 20:33:42.759 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.081 A
+2025-12-11 20:33:43.770 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.4 dBm, RF Output Power: -2.6 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:33:50.886 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 6, Frequency Type 1
+2025-12-11 20:33:50.894 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 6
+2025-12-11 20:33:51.860 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_14 (6).
+2025-12-11 20:33:51.863 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.081 A
+2025-12-11 20:33:52.874 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.5 dBm, RF Output Power: -3.0 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:33:59.994 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 6, Frequency Type 2
+2025-12-11 20:34:00.002 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 6
+2025-12-11 20:34:00.959 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_14 (6).
+2025-12-11 20:34:00.961 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.081 A
+2025-12-11 20:34:01.971 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.5 dBm, RF Output Power: -4.8 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:34:09.063 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 7, Frequency Type 0
+2025-12-11 20:34:09.071 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 7
+2025-12-11 20:34:10.030 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_20 (7).
+2025-12-11 20:34:10.034 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.083 A
+2025-12-11 20:34:11.040 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.8 dBm, RF Output Power: -3.8 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:34:18.474 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 7, Frequency Type 1
+2025-12-11 20:34:18.481 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 7
+2025-12-11 20:34:19.429 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_20 (7).
+2025-12-11 20:34:19.432 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:34:20.438 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.7 dBm, RF Output Power: -1.1 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:34:51.712 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 7, Frequency Type 2
+2025-12-11 20:34:51.719 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 7
+2025-12-11 20:34:52.676 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_20 (7).
+2025-12-11 20:34:52.680 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.079 A
+2025-12-11 20:34:53.690 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -27.0 dBm, RF Output Power: -1.3 dBm, CCA Voltage: 15.010 V, CCA Current: 0.399 A
+2025-12-11 20:35:11.456 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:53270], Connection ID: [2]
+2025-12-11 20:51:24.549 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 20:51:24.552 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-11 20:51:26.227 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-11 20:51:26.234 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-11 20:51:26.235 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-11 20:51:26.256 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2025-12-11 20:51:26.258 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2025-12-11 20:51:26.260 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 19:22:38, Event Counter: 1481
+2025-12-11 20:51:26.261 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-11 20:51:26.262 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-11 20:51:26.262 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-11 20:51:26.263 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-11 20:51:26.263 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-11 20:51:26.263 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-11 20:51:26.265 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-11 20:51:26.266 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-11 20:51:26.266 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-11 20:51:26.494 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:58167], Connection ID: [2]
+2025-12-11 20:51:28.534 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 1, Frequency Type 0
+2025-12-11 20:51:28.543 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 1
+2025-12-11 20:51:29.508 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_71 (1).
+2025-12-11 20:51:29.510 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.078 A
+2025-12-11 20:51:30.520 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -25.1 dBm, RF Output Power: -1.0 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:51:37.756 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 1, Frequency Type 1
+2025-12-11 20:51:37.763 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 1
+2025-12-11 20:51:38.721 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_71 (1).
+2025-12-11 20:51:38.723 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.084 A
+2025-12-11 20:51:39.735 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -25.2 dBm, RF Output Power: -2.1 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:51:46.997 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 1, Frequency Type 2
+2025-12-11 20:51:47.004 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 1
+2025-12-11 20:51:47.963 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_71 (1).
+2025-12-11 20:51:47.966 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.081 A
+2025-12-11 20:51:48.975 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -25.4 dBm, RF Output Power: -3.9 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:51:56.178 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 2, Frequency Type 0
+2025-12-11 20:51:56.185 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 2
+2025-12-11 20:51:57.147 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_12_17_85 (2).
+2025-12-11 20:51:57.150 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:51:58.155 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.2 dBm, RF Output Power: -4.7 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:52:05.480 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 2, Frequency Type 1
+2025-12-11 20:52:05.490 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 2
+2025-12-11 20:52:06.450 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_12_17_85 (2).
+2025-12-11 20:52:06.453 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:52:07.462 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.2 dBm, RF Output Power: -1.9 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:52:14.652 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 2, Frequency Type 2
+2025-12-11 20:52:14.658 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 2
+2025-12-11 20:52:15.623 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_12_17_85 (2).
+2025-12-11 20:52:15.626 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:52:16.634 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.3 dBm, RF Output Power: -5.2 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:52:23.907 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 3, Frequency Type 0
+2025-12-11 20:52:23.916 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 3
+2025-12-11 20:52:24.876 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_28A (3).
+2025-12-11 20:52:24.878 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.083 A
+2025-12-11 20:52:25.885 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.4 dBm, RF Output Power: -2.1 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:52:33.107 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 3, Frequency Type 1
+2025-12-11 20:52:33.114 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 3
+2025-12-11 20:52:34.066 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_28A (3).
+2025-12-11 20:52:34.068 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.083 A
+2025-12-11 20:52:35.081 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.5 dBm, RF Output Power: -1.8 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:52:42.299 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 3, Frequency Type 2
+2025-12-11 20:52:42.305 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 3
+2025-12-11 20:52:43.250 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_28A (3).
+2025-12-11 20:52:43.254 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:52:44.262 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.7 dBm, RF Output Power: -2.8 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:52:51.451 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 4, Frequency Type 0
+2025-12-11 20:52:51.458 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 4
+2025-12-11 20:52:52.426 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_28B (4).
+2025-12-11 20:52:52.432 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:52:53.439 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.6 dBm, RF Output Power: -0.8 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:53:00.528 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 4, Frequency Type 1
+2025-12-11 20:53:00.539 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 4
+2025-12-11 20:53:01.507 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_28B (4).
+2025-12-11 20:53:01.511 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.081 A
+2025-12-11 20:53:02.519 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.7 dBm, RF Output Power: -1.3 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:53:09.826 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 4, Frequency Type 2
+2025-12-11 20:53:09.832 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 4
+2025-12-11 20:53:10.784 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_28B (4).
+2025-12-11 20:53:10.787 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:53:11.814 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.8 dBm, RF Output Power: -0.4 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:53:19.089 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 5, Frequency Type 0
+2025-12-11 20:53:19.098 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 5
+2025-12-11 20:53:20.059 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_13 (5).
+2025-12-11 20:53:20.062 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:53:21.070 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.4 dBm, RF Output Power: -0.7 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:53:28.446 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 5, Frequency Type 1
+2025-12-11 20:53:28.453 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 5
+2025-12-11 20:53:29.403 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_13 (5).
+2025-12-11 20:53:29.406 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.081 A
+2025-12-11 20:53:30.414 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.3 dBm, RF Output Power: -1.5 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:53:37.718 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 5, Frequency Type 2
+2025-12-11 20:53:37.725 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 5
+2025-12-11 20:53:38.690 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_13 (5).
+2025-12-11 20:53:38.693 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:53:39.702 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.4 dBm, RF Output Power: -3.0 dBm, CCA Voltage: 15.010 V, CCA Current: 0.399 A
+2025-12-11 20:53:47.058 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 6, Frequency Type 0
+2025-12-11 20:53:47.067 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 6
+2025-12-11 20:53:48.029 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_14 (6).
+2025-12-11 20:53:48.033 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.081 A
+2025-12-11 20:53:49.041 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.4 dBm, RF Output Power: -2.6 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:53:56.337 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 6, Frequency Type 1
+2025-12-11 20:53:56.344 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 6
+2025-12-11 20:53:57.307 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_14 (6).
+2025-12-11 20:53:57.311 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.081 A
+2025-12-11 20:53:58.315 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.5 dBm, RF Output Power: -3.0 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:54:05.536 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 6, Frequency Type 2
+2025-12-11 20:54:05.544 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 6
+2025-12-11 20:54:06.493 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_14 (6).
+2025-12-11 20:54:06.496 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:54:07.503 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.5 dBm, RF Output Power: -4.9 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:54:14.785 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 7, Frequency Type 0
+2025-12-11 20:54:14.792 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 7
+2025-12-11 20:54:15.757 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_20 (7).
+2025-12-11 20:54:15.760 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.081 A
+2025-12-11 20:54:16.770 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.8 dBm, RF Output Power: -3.9 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:54:23.970 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 7, Frequency Type 1
+2025-12-11 20:54:23.977 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 7
+2025-12-11 20:54:24.922 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_20 (7).
+2025-12-11 20:54:24.925 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.080 A
+2025-12-11 20:54:25.935 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.7 dBm, RF Output Power: -1.1 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:54:33.224 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 7, Frequency Type 2
+2025-12-11 20:54:33.231 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 7
+2025-12-11 20:54:34.179 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_20 (7).
+2025-12-11 20:54:34.182 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:54:35.191 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -27.0 dBm, RF Output Power: -1.3 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:54:42.458 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 8, Frequency Type 0
+2025-12-11 20:54:42.466 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 8
+2025-12-11 20:54:43.409 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_5_26 (8).
+2025-12-11 20:54:43.412 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.080 A
+2025-12-11 20:54:44.422 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -27.1 dBm, RF Output Power: -0.3 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:54:51.614 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 8, Frequency Type 1
+2025-12-11 20:54:51.622 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 8
+2025-12-11 20:54:52.579 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_5_26 (8).
+2025-12-11 20:54:52.582 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.083 A
+2025-12-11 20:54:53.592 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -27.3 dBm, RF Output Power: -0.9 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:55:00.894 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 8, Frequency Type 2
+2025-12-11 20:55:00.902 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 8
+2025-12-11 20:55:01.862 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_5_26 (8).
+2025-12-11 20:55:01.864 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:55:02.872 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -27.4 dBm, RF Output Power: -2.3 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:55:10.141 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 9, Frequency Type 0
+2025-12-11 20:55:10.148 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 9
+2025-12-11 20:55:11.095 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_8 (9).
+2025-12-11 20:55:11.098 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.083 A
+2025-12-11 20:55:12.106 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -27.6 dBm, RF Output Power: -4.4 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:55:19.459 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 9, Frequency Type 1
+2025-12-11 20:55:19.465 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 9
+2025-12-11 20:55:20.427 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_8 (9).
+2025-12-11 20:55:20.430 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:55:21.442 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -27.8 dBm, RF Output Power: -3.4 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:55:28.706 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 9, Frequency Type 2
+2025-12-11 20:55:28.714 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 9
+2025-12-11 20:55:29.669 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_8 (9).
+2025-12-11 20:55:29.671 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.081 A
+2025-12-11 20:55:30.679 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -27.9 dBm, RF Output Power: -3.8 dBm, CCA Voltage: 15.010 V, CCA Current: 0.403 A
+2025-12-11 20:55:37.982 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 10, Frequency Type 0
+2025-12-11 20:55:37.989 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 10
+2025-12-11 20:55:38.935 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_LB_BYPASS (10).
+2025-12-11 20:55:38.937 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.081 A
+2025-12-11 20:55:39.954 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -24.9 dBm, RF Output Power: -3.1 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:55:47.139 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 10, Frequency Type 1
+2025-12-11 20:55:47.147 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 10
+2025-12-11 20:55:48.102 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_LB_BYPASS (10).
+2025-12-11 20:55:48.105 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.082 A
+2025-12-11 20:55:49.114 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -26.6 dBm, RF Output Power: -4.5 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:55:56.481 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 10, Frequency Type 2
+2025-12-11 20:55:56.488 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 10
+2025-12-11 20:55:57.440 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_LB_BYPASS (10).
+2025-12-11 20:55:57.443 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.873 V, Drain Current 0.081 A
+2025-12-11 20:55:58.450 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -27.7 dBm, RF Output Power: -5.7 dBm, CCA Voltage: 15.017 V, CCA Current: 0.403 A
+2025-12-11 20:56:05.688 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 11, Frequency Type 0
+2025-12-11 20:56:05.694 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 11
+2025-12-11 20:56:06.655 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_70 (11).
+2025-12-11 20:56:06.658 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.077 A
+2025-12-11 20:56:07.674 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.7 dBm, RF Output Power: -11.0 dBm, CCA Voltage: 15.002 V, CCA Current: 0.520 A
+2025-12-11 20:56:14.908 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 11, Frequency Type 1
+2025-12-11 20:56:14.915 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 11
+2025-12-11 20:56:15.873 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_70 (11).
+2025-12-11 20:56:15.877 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.082 A
+2025-12-11 20:56:16.883 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.8 dBm, RF Output Power: -10.7 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:56:24.158 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 11, Frequency Type 2
+2025-12-11 20:56:24.167 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 11
+2025-12-11 20:56:25.122 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_70 (11).
+2025-12-11 20:56:25.125 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.082 A
+2025-12-11 20:56:26.133 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.6 dBm, RF Output Power: -10.3 dBm, CCA Voltage: 15.002 V, CCA Current: 0.524 A
+2025-12-11 20:56:33.661 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 12, Frequency Type 0
+2025-12-11 20:56:33.670 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 12
+2025-12-11 20:56:34.620 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_3_9 (12).
+2025-12-11 20:56:34.622 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2025-12-11 20:56:35.632 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -31.7 dBm, RF Output Power: -8.9 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:56:42.916 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 12, Frequency Type 1
+2025-12-11 20:56:42.923 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 12
+2025-12-11 20:56:43.885 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_3_9 (12).
+2025-12-11 20:56:43.888 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.083 A
+2025-12-11 20:56:44.900 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -31.9 dBm, RF Output Power: -9.8 dBm, CCA Voltage: 15.002 V, CCA Current: 0.520 A
+2025-12-11 20:56:52.276 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 12, Frequency Type 2
+2025-12-11 20:56:52.284 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 12
+2025-12-11 20:56:53.241 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_3_9 (12).
+2025-12-11 20:56:53.244 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2025-12-11 20:56:54.258 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -32.0 dBm, RF Output Power: -10.8 dBm, CCA Voltage: 14.995 V, CCA Current: 0.520 A
+2025-12-11 20:57:01.483 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2025-12-11 20:57:01.491 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2025-12-11 20:57:01.817 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2025-12-11 20:57:01.821 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.082 A
+2025-12-11 20:57:02.830 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -48.8 dBm, RF Output Power: -31.3 dBm, CCA Voltage: 15.024 V, CCA Current: 0.330 A
+2025-12-11 21:00:02.448 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:58167], Connection ID: [2]
+2025-12-19 17:19:10.620 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-19 17:19:10.623 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-19 17:19:12.320 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-19 17:19:12.328 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-19 17:19:12.330 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-19 17:19:12.357 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2025-12-19 17:19:12.360 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2025-12-19 17:19:12.364 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 19:30:10, Event Counter: 1518
+2025-12-19 17:19:12.367 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-19 17:19:12.367 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-19 17:19:12.369 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-19 17:19:12.371 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-19 17:19:12.372 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-19 17:19:12.372 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-19 17:19:12.374 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-19 17:19:12.378 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-19 17:19:12.378 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-19 17:19:12.588 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:57519], Connection ID: [2]
+2025-12-19 17:19:30.423 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2025-12-19 17:19:30.430 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2025-12-19 17:19:30.767 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2025-12-19 17:19:30.770 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.082 A
+2025-12-19 17:19:31.779 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -49.6 dBm, RF Output Power: -32.2 dBm, CCA Voltage: 15.010 V, CCA Current: 0.334 A
+2025-12-19 17:47:03.949 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:57519], Connection ID: [2]
+2025-12-19 17:49:31.675 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-19 17:49:31.677 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-19 17:49:33.374 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-19 17:49:33.385 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-19 17:49:33.386 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-19 17:49:33.407 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2025-12-19 17:49:33.409 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2025-12-19 17:49:33.410 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 19:57:47, Event Counter: 1519
+2025-12-19 17:49:33.412 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-19 17:49:33.412 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-19 17:49:33.413 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-19 17:49:33.413 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-19 17:49:33.414 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-19 17:49:33.414 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-19 17:49:33.416 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-19 17:49:33.417 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-19 17:49:33.417 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-19 17:49:33.626 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:50771], Connection ID: [2]
+2025-12-19 17:49:57.461 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2025-12-19 17:49:57.469 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2025-12-19 17:49:57.805 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2025-12-19 17:49:57.806 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.078 A
+2025-12-19 17:49:58.815 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -41.5 dBm, RF Output Power: -23.3 dBm, CCA Voltage: 15.010 V, CCA Current: 0.330 A
+2025-12-19 18:10:08.695 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:50771], Connection ID: [2]
+2025-12-19 18:39:11.896 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-19 18:39:11.898 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-19 18:39:13.603 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-19 18:39:13.615 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-19 18:39:13.615 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-19 18:39:13.637 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2025-12-19 18:39:13.639 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2025-12-19 18:39:13.640 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 20:18:00, Event Counter: 1520
+2025-12-19 18:39:13.642 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-19 18:39:13.643 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-19 18:39:13.643 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-19 18:39:13.643 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-19 18:39:13.644 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-19 18:39:13.644 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-19 18:39:13.646 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-19 18:39:13.647 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-19 18:39:13.648 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-19 18:39:13.838 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:65010], Connection ID: [2]
+2025-12-19 18:39:35.978 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2025-12-19 18:39:35.984 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2025-12-19 18:39:36.306 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2025-12-19 18:39:36.309 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.077 A
+2025-12-19 18:39:37.320 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -46.6 dBm, RF Output Power: -28.8 dBm, CCA Voltage: 15.010 V, CCA Current: 0.326 A
+2025-12-19 18:43:21.603 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:65010], Connection ID: [2]
+2025-12-19 19:10:42.350 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-19 19:10:42.352 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-19 19:10:44.025 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-19 19:10:44.036 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-19 19:10:44.036 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-19 19:10:44.059 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2025-12-19 19:10:44.060 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2025-12-19 19:10:44.062 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 20:21:47, Event Counter: 1521
+2025-12-19 19:10:44.064 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-19 19:10:44.065 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-19 19:10:44.065 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-19 19:10:44.065 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-19 19:10:44.066 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-19 19:10:44.066 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-19 19:10:44.068 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-19 19:10:44.069 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-19 19:10:44.070 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-19 19:10:44.325 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:65185], Connection ID: [2]
+2025-12-19 19:11:00.175 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2025-12-19 19:11:00.184 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling Auto TDD for path 13
+2025-12-19 19:11:00.513 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2025-12-19 19:11:00.517 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.076 A
+2025-12-19 19:11:01.528 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -44.9 dBm, RF Output Power: -27.0 dBm, CCA Voltage: 15.010 V, CCA Current: 0.326 A
+2025-12-19 19:42:19.595 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:65185], Connection ID: [2]
+2025-12-22 17:33:07.725 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-22 17:33:07.727 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2025-12-22 17:33:09.393 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2025-12-22 17:33:09.405 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2025-12-22 17:33:09.406 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2025-12-22 17:33:09.428 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2025-12-22 17:33:09.430 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2025-12-22 17:33:09.431 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 20:53:10, Event Counter: 1522
+2025-12-22 17:33:09.433 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2025-12-22 17:33:09.434 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2025-12-22 17:33:09.434 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2025-12-22 17:33:09.435 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2025-12-22 17:33:09.435 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2025-12-22 17:33:09.436 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2025-12-22 17:33:09.437 [ I - 0() - CraApplication ]: Starting System Services
+2025-12-22 17:33:09.438 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2025-12-22 17:33:09.438 [ I - 0() - CraApplication ]: Send termination request to quit
+2025-12-22 17:33:09.599 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:63890], Connection ID: [2]
+2025-12-22 17:33:25.351 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2025-12-22 17:33:25.359 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2025-12-22 17:33:25.689 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2025-12-22 17:33:25.694 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.082 A
+2025-12-22 17:33:26.698 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -42.3 dBm, RF Output Power: -24.2 dBm, CCA Voltage: 15.010 V, CCA Current: 0.330 A
+2025-12-22 17:37:57.185 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:63890], Connection ID: [2]
+2026-01-07 17:24:56.554 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 17:24:56.555 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-07 17:24:58.237 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-07 17:24:58.248 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-07 17:24:58.248 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-07 17:24:58.270 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-07 17:24:58.271 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-07 17:24:58.273 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 20:57:42, Event Counter: 1523
+2026-01-07 17:24:58.275 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-07 17:24:58.275 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-07 17:24:58.276 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 17:24:58.276 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-07 17:24:58.276 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-07 17:24:58.277 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-07 17:24:58.279 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-07 17:24:58.279 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-07 17:24:58.280 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-07 17:24:58.600 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:57794], Connection ID: [2]
+2026-01-07 17:26:35.988 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:57794], Connection ID: [2]
+2026-01-07 17:40:38.731 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 17:40:38.733 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-07 17:40:40.399 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-07 17:40:40.409 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-07 17:40:40.414 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-07 17:40:40.436 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-07 17:40:40.437 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-07 17:40:40.439 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 20:57:42, Event Counter: 1523
+2026-01-07 17:40:40.441 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-07 17:40:40.441 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-07 17:40:40.442 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 17:40:40.442 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-07 17:40:40.443 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-07 17:40:40.443 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-07 17:40:40.445 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-07 17:40:40.446 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-07 17:40:40.446 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-07 17:40:40.727 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:56039], Connection ID: [2]
+2026-01-07 17:45:40.933 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:56039], Connection ID: [2]
+2026-01-07 17:51:08.414 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 17:51:08.415 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-07 17:51:10.066 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-07 17:51:10.073 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-07 17:51:10.074 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-07 17:51:10.097 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-07 17:51:10.099 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-07 17:51:10.100 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 20:57:42, Event Counter: 1523
+2026-01-07 17:51:10.102 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-07 17:51:10.102 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-07 17:51:10.103 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 17:51:10.103 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-07 17:51:10.104 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-07 17:51:10.104 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-07 17:51:10.106 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-07 17:51:10.107 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-07 17:51:10.108 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-07 17:51:10.395 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:63613], Connection ID: [2]
+2026-01-07 17:51:20.371 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 12, Frequency Type 2
+2026-01-07 17:51:20.379 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 12
+2026-01-07 17:51:21.349 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_3_9 (12).
+2026-01-07 17:51:21.351 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2026-01-07 17:51:22.357 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -12.7 dBm, RF Output Power: 15.4 dBm, CCA Voltage: 14.966 V, CCA Current: 0.528 A
+2026-01-07 18:00:19.922 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:63613], Connection ID: [2]
+2026-01-07 18:03:31.201 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 18:03:31.203 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-07 18:03:32.858 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-07 18:03:32.870 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-07 18:03:32.871 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-07 18:03:32.894 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-07 18:03:32.894 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-07 18:03:32.896 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 21:06:43, Event Counter: 1524
+2026-01-07 18:03:32.898 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-07 18:03:32.900 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-07 18:03:32.900 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 18:03:32.901 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-07 18:03:32.901 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-07 18:03:32.902 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-07 18:03:32.904 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-07 18:03:32.905 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-07 18:03:32.905 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-07 18:03:33.075 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:54029], Connection ID: [2]
+2026-01-07 18:03:48.822 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-07 18:03:48.829 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-07 18:03:49.164 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-07 18:03:49.166 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.079 A
+2026-01-07 18:03:50.172 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -12.5 dBm, RF Output Power: 15.0 dBm, CCA Voltage: 14.981 V, CCA Current: 0.427 A
+2026-01-07 18:11:05.510 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:54029], Connection ID: [2]
+2026-01-07 18:13:42.980 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 18:13:42.981 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-07 18:13:44.648 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-07 18:13:44.655 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-07 18:13:44.656 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-07 18:13:44.698 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-07 18:13:44.699 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-07 18:13:44.701 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 21:14:01, Event Counter: 1525
+2026-01-07 18:13:44.702 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-07 18:13:44.703 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-07 18:13:44.703 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 18:13:44.703 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-07 18:13:44.706 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-07 18:13:44.706 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-07 18:13:44.708 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-07 18:13:44.709 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-07 18:13:44.709 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-07 18:13:45.071 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:62743], Connection ID: [2]
+2026-01-07 18:14:00.741 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-07 18:14:00.748 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-07 18:14:01.081 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-07 18:14:01.085 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.078 A
+2026-01-07 18:14:02.105 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -12.6 dBm, RF Output Power: 14.8 dBm, CCA Voltage: 14.988 V, CCA Current: 0.407 A
+2026-01-07 18:20:28.131 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:62743], Connection ID: [2]
+2026-01-07 18:25:31.563 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 18:25:31.564 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-07 18:25:33.216 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-07 18:25:33.222 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-07 18:25:33.223 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-07 18:25:33.247 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-07 18:25:33.250 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-07 18:25:33.252 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 21:20:30, Event Counter: 1526
+2026-01-07 18:25:33.254 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-07 18:25:33.254 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-07 18:25:33.255 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 18:25:33.256 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-07 18:25:33.257 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-07 18:25:33.257 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-07 18:25:33.259 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-07 18:25:33.260 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-07 18:25:33.260 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-07 18:25:33.608 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:51969], Connection ID: [2]
+2026-01-07 18:25:49.189 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-07 18:25:49.198 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-07 18:25:49.526 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-07 18:25:49.528 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.080 A
+2026-01-07 18:25:50.538 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -12.6 dBm, RF Output Power: 14.8 dBm, CCA Voltage: 14.988 V, CCA Current: 0.407 A
+2026-01-07 18:36:14.935 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:51969], Connection ID: [2]
+2026-01-07 18:40:27.089 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 18:40:27.091 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-07 18:40:28.759 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-07 18:40:28.771 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-07 18:40:28.771 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-07 18:40:28.792 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-07 18:40:28.794 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-07 18:40:28.796 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 21:30:57, Event Counter: 1527
+2026-01-07 18:40:28.798 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-07 18:40:28.798 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-07 18:40:28.798 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 18:40:28.799 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-07 18:40:28.799 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-07 18:40:28.800 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-07 18:40:28.801 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-07 18:40:28.802 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-07 18:40:28.803 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-07 18:40:29.041 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:65144], Connection ID: [2]
+2026-01-07 18:40:44.718 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-07 18:40:44.725 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-07 18:40:45.051 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-07 18:40:45.053 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.079 A
+2026-01-07 18:40:46.064 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -12.6 dBm, RF Output Power: 14.7 dBm, CCA Voltage: 14.988 V, CCA Current: 0.407 A
+2026-01-07 18:43:27.831 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:65144], Connection ID: [2]
+2026-01-07 18:44:22.155 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 18:44:22.156 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-07 18:44:23.822 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-07 18:44:23.833 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-07 18:44:23.834 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-07 18:44:23.854 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-07 18:44:23.855 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-07 18:44:23.856 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 21:33:41, Event Counter: 1528
+2026-01-07 18:44:23.858 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-07 18:44:23.859 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-07 18:44:23.859 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 18:44:23.859 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-07 18:44:23.860 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-07 18:44:23.860 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-07 18:44:23.862 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-07 18:44:23.863 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-07 18:44:23.863 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-07 18:44:24.104 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:65203], Connection ID: [2]
+2026-01-07 18:44:39.778 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-07 18:44:39.785 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-07 18:44:40.122 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-07 18:44:40.124 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.081 A
+2026-01-07 18:44:41.142 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -11.6 dBm, RF Output Power: 15.7 dBm, CCA Voltage: 14.981 V, CCA Current: 0.419 A
+2026-01-07 18:51:41.486 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:65203], Connection ID: [2]
+2026-01-07 19:43:56.389 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 19:43:56.391 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-07 19:43:58.067 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-07 19:43:58.079 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-07 19:43:58.080 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-07 19:43:58.105 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-07 19:43:58.107 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-07 19:43:58.108 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 21:40:43, Event Counter: 1529
+2026-01-07 19:43:58.110 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-07 19:43:58.111 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-07 19:43:58.111 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 19:43:58.111 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-07 19:43:58.112 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-07 19:43:58.112 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-07 19:43:58.114 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-07 19:43:58.115 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-07 19:43:58.115 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-07 19:43:58.421 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:56649], Connection ID: [2]
+2026-01-07 19:44:14.143 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-07 19:44:14.150 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-07 19:44:14.475 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-07 19:44:14.477 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.079 A
+2026-01-07 19:44:15.481 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -11.4 dBm, RF Output Power: 16.0 dBm, CCA Voltage: 14.973 V, CCA Current: 0.443 A
+2026-01-07 19:55:54.256 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:56649], Connection ID: [2]
+2026-01-07 20:02:23.169 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 20:02:23.170 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-07 20:02:24.820 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-07 20:02:24.825 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-07 20:02:24.826 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-07 20:02:24.848 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-07 20:02:24.850 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-07 20:02:24.852 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 21:52:25, Event Counter: 1530
+2026-01-07 20:02:24.854 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-07 20:02:24.854 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-07 20:02:24.855 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 20:02:24.855 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-07 20:02:24.855 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-07 20:02:24.856 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-07 20:02:24.858 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-07 20:02:24.858 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-07 20:02:24.859 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-07 20:02:25.102 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:60049], Connection ID: [2]
+2026-01-07 20:02:40.889 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-07 20:02:40.896 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-07 20:02:41.229 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-07 20:02:41.233 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.078 A
+2026-01-07 20:02:42.250 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -17.6 dBm, RF Output Power: 10.0 dBm, CCA Voltage: 14.981 V, CCA Current: 0.415 A
+2026-01-07 20:04:10.301 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:60049], Connection ID: [2]
+2026-01-07 20:04:53.263 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 20:04:53.264 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-07 20:04:54.942 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-07 20:04:54.951 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-07 20:04:54.953 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-07 20:04:54.980 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-07 20:04:54.982 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-07 20:04:54.985 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 21:53:55, Event Counter: 1531
+2026-01-07 20:04:54.988 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-07 20:04:54.989 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-07 20:04:54.989 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 20:04:54.990 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-07 20:04:54.991 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-07 20:04:54.991 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-07 20:04:54.994 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-07 20:04:54.994 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-07 20:04:54.995 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-07 20:04:55.172 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:63274], Connection ID: [2]
+2026-01-07 20:05:10.960 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-07 20:05:10.967 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-07 20:05:11.303 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-07 20:05:11.306 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.079 A
+2026-01-07 20:05:12.310 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -18.5 dBm, RF Output Power: 9.0 dBm, CCA Voltage: 14.981 V, CCA Current: 0.403 A
+2026-01-07 20:31:15.690 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:63274], Connection ID: [2]
+2026-01-07 20:50:27.808 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 20:50:27.809 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-07 20:50:29.496 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-07 20:50:29.506 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-07 20:50:29.507 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-07 20:50:29.528 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-07 20:50:29.529 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-07 20:50:29.531 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 22:20:02, Event Counter: 1532
+2026-01-07 20:50:29.533 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-07 20:50:29.533 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-07 20:50:29.534 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 20:50:29.534 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-07 20:50:29.534 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-07 20:50:29.535 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-07 20:50:29.537 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-07 20:50:29.537 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-07 20:50:29.538 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-07 20:50:29.765 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:64474], Connection ID: [2]
+2026-01-07 20:50:45.514 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-07 20:50:45.522 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-07 20:50:45.856 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-07 20:50:45.858 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.079 A
+2026-01-07 20:50:46.876 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -18.5 dBm, RF Output Power: 9.0 dBm, CCA Voltage: 14.981 V, CCA Current: 0.407 A
+2026-01-07 20:57:19.129 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:64474], Connection ID: [2]
+2026-01-07 20:59:21.370 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 20:59:21.371 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-07 20:59:23.041 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-07 20:59:23.051 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-07 20:59:23.051 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-07 20:59:23.073 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-07 20:59:23.075 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-07 20:59:23.078 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 22:26:37, Event Counter: 1533
+2026-01-07 20:59:23.080 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-07 20:59:23.080 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-07 20:59:23.081 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-07 20:59:23.081 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-07 20:59:23.082 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-07 20:59:23.082 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-07 20:59:23.084 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-07 20:59:23.084 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-07 20:59:23.085 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-07 20:59:23.210 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:55956], Connection ID: [2]
+2026-01-07 20:59:38.931 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-07 20:59:38.938 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-07 20:59:39.270 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-07 20:59:39.274 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.079 A
+2026-01-07 20:59:40.281 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -18.6 dBm, RF Output Power: 8.9 dBm, CCA Voltage: 14.973 V, CCA Current: 0.443 A
+2026-01-07 21:31:02.517 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:55956], Connection ID: [2]
+2026-01-08 19:17:06.569 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 19:17:06.571 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-08 19:17:08.242 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-08 19:17:08.248 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-08 19:17:08.248 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-08 19:17:08.270 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-08 19:17:08.272 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-08 19:17:08.274 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 22:58:03, Event Counter: 1534
+2026-01-08 19:17:08.276 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-08 19:17:08.277 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-08 19:17:08.277 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 19:17:08.277 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-08 19:17:08.278 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-08 19:17:08.278 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-08 19:17:08.280 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-08 19:17:08.281 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-08 19:17:08.281 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-08 19:17:08.662 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:63975], Connection ID: [2]
+2026-01-08 19:17:24.348 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-08 19:17:24.355 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-08 19:17:24.684 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-08 19:17:24.687 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.077 A
+2026-01-08 19:17:25.695 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -18.4 dBm, RF Output Power: 9.4 dBm, CCA Voltage: 14.988 V, CCA Current: 0.399 A
+2026-01-08 19:22:50.636 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:63975], Connection ID: [2]
+2026-01-08 19:24:44.017 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 19:24:44.019 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-08 19:24:45.688 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-08 19:24:45.700 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-08 19:24:45.701 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-08 19:24:45.723 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-08 19:24:45.725 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-08 19:24:45.727 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 23:03:30, Event Counter: 1535
+2026-01-08 19:24:45.729 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-08 19:24:45.729 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-08 19:24:45.730 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 19:24:45.730 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-08 19:24:45.731 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-08 19:24:45.731 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-08 19:24:45.734 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-08 19:24:45.735 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-08 19:24:45.735 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-08 19:24:45.969 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:58833], Connection ID: [2]
+2026-01-08 19:25:01.677 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-08 19:25:01.688 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-08 19:25:02.012 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-08 19:25:02.015 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.077 A
+2026-01-08 19:25:03.019 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -18.4 dBm, RF Output Power: 9.2 dBm, CCA Voltage: 14.988 V, CCA Current: 0.399 A
+2026-01-08 19:32:19.456 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:58833], Connection ID: [2]
+2026-01-08 20:30:18.036 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 20:30:18.037 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-08 20:30:19.694 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-08 20:30:19.706 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-08 20:30:19.707 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-08 20:30:19.729 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-08 20:30:19.731 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-08 20:30:19.732 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 23:10:49, Event Counter: 1536
+2026-01-08 20:30:19.734 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-08 20:30:19.736 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-08 20:30:19.736 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 20:30:19.737 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-08 20:30:19.737 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-08 20:30:19.738 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-08 20:30:19.739 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-08 20:30:19.740 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-08 20:30:19.740 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-08 20:30:19.867 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:64000], Connection ID: [2]
+2026-01-08 20:30:29.787 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-08 20:30:29.794 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-08 20:30:30.127 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-08 20:30:30.130 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.077 A
+2026-01-08 20:30:31.135 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -47.4 dBm, RF Output Power: -29.7 dBm, CCA Voltage: 14.995 V, CCA Current: 0.326 A
+2026-01-08 20:46:29.360 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:64000], Connection ID: [2]
+2026-01-08 20:59:22.248 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 20:59:22.249 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-08 20:59:23.904 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-08 20:59:23.916 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-08 20:59:23.918 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-08 20:59:23.941 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-08 20:59:23.941 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-08 20:59:23.944 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 23:26:51, Event Counter: 1537
+2026-01-08 20:59:23.945 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-08 20:59:23.946 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-08 20:59:23.946 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 20:59:23.947 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-08 20:59:23.947 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-08 20:59:23.948 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-08 20:59:23.949 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-08 20:59:23.951 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-08 20:59:23.951 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-08 20:59:24.278 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:51440], Connection ID: [2]
+2026-01-08 20:59:34.210 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-08 20:59:34.217 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-08 20:59:34.552 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-08 20:59:34.555 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.077 A
+2026-01-08 20:59:35.559 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -42.2 dBm, RF Output Power: -24.0 dBm, CCA Voltage: 15.002 V, CCA Current: 0.326 A
+2026-01-08 21:00:14.091 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:51440], Connection ID: [2]
+2026-01-08 21:07:16.259 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 21:07:16.262 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-08 21:07:17.945 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-08 21:07:17.953 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-08 21:07:17.953 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-08 21:07:17.975 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-08 21:07:17.976 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-08 21:07:17.978 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 23:27:32, Event Counter: 1538
+2026-01-08 21:07:17.980 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-08 21:07:17.980 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-08 21:07:17.980 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 21:07:17.980 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-08 21:07:17.982 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-08 21:07:17.982 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-08 21:07:17.984 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-08 21:07:17.985 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-08 21:07:17.985 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-08 21:07:18.210 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:52791], Connection ID: [2]
+2026-01-08 21:07:28.153 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-08 21:07:28.162 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-08 21:07:28.487 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-08 21:07:28.491 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.077 A
+2026-01-08 21:07:29.494 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -49.6 dBm, RF Output Power: -32.2 dBm, CCA Voltage: 15.002 V, CCA Current: 0.322 A
+2026-01-08 21:08:57.447 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:52791], Connection ID: [2]
+2026-01-08 21:39:33.426 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 21:39:33.427 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-08 21:39:35.085 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-08 21:39:35.093 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-08 21:39:35.094 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-08 21:39:35.118 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-08 21:39:35.119 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-08 21:39:35.121 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 23:29:02, Event Counter: 1539
+2026-01-08 21:39:35.123 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-08 21:39:35.123 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-08 21:39:35.124 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 21:39:35.124 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-08 21:39:35.125 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-08 21:39:35.126 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-08 21:39:35.127 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-08 21:39:35.128 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-08 21:39:35.128 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-08 21:39:35.426 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:49173], Connection ID: [2]
+2026-01-08 21:39:45.567 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-08 21:39:45.576 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-08 21:39:45.909 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-08 21:39:45.912 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.075 A
+2026-01-08 21:39:46.929 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -44.3 dBm, RF Output Power: -26.3 dBm, CCA Voltage: 14.995 V, CCA Current: 0.322 A
+2026-01-08 21:41:09.195 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:49173], Connection ID: [2]
+2026-01-08 21:44:58.022 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 21:44:58.024 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-08 21:44:59.673 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-08 21:44:59.686 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-08 21:44:59.688 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-08 21:44:59.708 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-08 21:44:59.711 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-08 21:44:59.712 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 23:30:26, Event Counter: 1540
+2026-01-08 21:44:59.714 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-08 21:44:59.714 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-08 21:44:59.715 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 21:44:59.715 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-08 21:44:59.716 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-08 21:44:59.716 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-08 21:44:59.718 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-08 21:44:59.719 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-08 21:44:59.719 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-08 21:45:00.032 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:64654], Connection ID: [2]
+2026-01-08 21:45:09.989 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-08 21:45:09.997 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-08 21:45:10.326 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-08 21:45:10.331 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.074 A
+2026-01-08 21:45:11.350 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -42.3 dBm, RF Output Power: -24.1 dBm, CCA Voltage: 15.002 V, CCA Current: 0.322 A
+2026-01-08 21:45:30.621 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:64654], Connection ID: [2]
+2026-01-08 21:53:21.004 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 21:53:21.005 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-08 21:53:22.673 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-08 21:53:22.685 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-08 21:53:22.687 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-08 21:53:22.709 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-08 21:53:22.711 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-08 21:53:22.713 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 23:30:47, Event Counter: 1541
+2026-01-08 21:53:22.715 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-08 21:53:22.715 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-08 21:53:22.716 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 21:53:22.716 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-08 21:53:22.717 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-08 21:53:22.717 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-08 21:53:22.719 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-08 21:53:22.719 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-08 21:53:22.721 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-08 21:53:23.122 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:50491], Connection ID: [2]
+2026-01-08 21:53:32.960 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-08 21:53:32.967 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-08 21:53:33.291 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-08 21:53:33.295 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.075 A
+2026-01-08 21:53:34.301 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -49.6 dBm, RF Output Power: -32.2 dBm, CCA Voltage: 15.002 V, CCA Current: 0.322 A
+2026-01-08 21:53:44.825 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:50491], Connection ID: [2]
+2026-01-08 21:57:30.384 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 21:57:30.385 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-08 21:57:32.045 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-08 21:57:32.054 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-08 21:57:32.055 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-08 21:57:32.078 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-08 21:57:32.080 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-08 21:57:32.082 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 23:30:59, Event Counter: 1542
+2026-01-08 21:57:32.084 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-08 21:57:32.084 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-08 21:57:32.085 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 21:57:32.086 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-08 21:57:32.087 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-08 21:57:32.087 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-08 21:57:32.090 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-08 21:57:32.091 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-08 21:57:32.091 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-08 21:57:32.309 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:58639], Connection ID: [2]
+2026-01-08 21:57:42.255 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-08 21:57:42.263 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-08 21:57:42.596 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-08 21:57:42.598 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.076 A
+2026-01-08 21:57:43.603 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -49.6 dBm, RF Output Power: -32.2 dBm, CCA Voltage: 15.002 V, CCA Current: 0.322 A
+2026-01-08 22:01:38.628 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:58639], Connection ID: [2]
+2026-01-08 22:03:45.088 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 22:03:45.090 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-08 22:03:46.769 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-08 22:03:46.775 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-08 22:03:46.776 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-08 22:03:46.800 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-08 22:03:46.801 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-08 22:03:46.803 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 23:34:56, Event Counter: 1543
+2026-01-08 22:03:46.805 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-08 22:03:46.806 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-08 22:03:46.806 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 22:03:46.806 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-08 22:03:46.806 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-08 22:03:46.807 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-08 22:03:46.809 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-08 22:03:46.810 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-08 22:03:46.810 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-08 22:03:47.077 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:60472], Connection ID: [2]
+2026-01-08 22:03:57.162 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 12, Frequency Type 2
+2026-01-08 22:03:57.169 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Not enabling TDD for path 12
+2026-01-08 22:03:58.114 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_3_9 (12).
+2026-01-08 22:03:58.117 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.076 A
+2026-01-08 22:03:59.126 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -18.7 dBm, RF Output Power: 9.3 dBm, CCA Voltage: 14.966 V, CCA Current: 0.512 A
+2026-01-08 22:06:01.691 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:60472], Connection ID: [2]
+2026-01-08 22:13:43.705 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 22:13:43.707 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-08 22:13:45.379 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-08 22:13:45.389 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-08 22:13:45.390 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-08 22:13:45.414 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-08 22:13:45.416 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-08 22:13:45.418 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 23:37:01, Event Counter: 1544
+2026-01-08 22:13:45.419 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-08 22:13:45.419 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-08 22:13:45.420 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 22:13:45.420 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-08 22:13:45.421 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-08 22:13:45.421 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-08 22:13:45.423 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-08 22:13:45.424 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-08 22:13:45.424 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-08 22:13:45.643 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:56914], Connection ID: [2]
+2026-01-08 22:14:01.380 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-08 22:14:01.389 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-08 22:14:01.720 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-08 22:14:01.723 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.075 A
+2026-01-08 22:14:02.740 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -42.6 dBm, RF Output Power: -24.5 dBm, CCA Voltage: 14.995 V, CCA Current: 0.322 A
+2026-01-08 22:17:27.997 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:56914], Connection ID: [2]
+2026-01-08 22:23:06.550 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 22:23:06.551 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-08 22:23:08.206 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-08 22:23:08.212 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-08 22:23:08.212 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-08 22:23:08.235 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-08 22:23:08.237 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-08 22:23:08.239 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 23:40:29, Event Counter: 1545
+2026-01-08 22:23:08.241 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-08 22:23:08.242 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-08 22:23:08.242 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 22:23:08.243 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-08 22:23:08.243 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-08 22:23:08.244 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-08 22:23:08.246 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-08 22:23:08.246 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-08 22:23:08.247 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-08 22:23:08.517 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:50581], Connection ID: [2]
+2026-01-08 22:23:24.395 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-08 22:23:24.403 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-08 22:23:24.736 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-08 22:23:24.742 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.076 A
+2026-01-08 22:23:25.756 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -45.6 dBm, RF Output Power: -27.7 dBm, CCA Voltage: 15.002 V, CCA Current: 0.322 A
+2026-01-08 22:25:07.913 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:50581], Connection ID: [2]
+2026-01-08 22:28:29.602 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 22:28:29.603 [ I - 0() - ModeManager ]: Initializing 1 mode packages...
+2026-01-08 22:28:31.265 [ I - 0() - ExtPaDeviceManager ]: Recovering: 0 Device Handle Null: 0
+2026-01-08 22:28:31.276 [ I - 0() - ExtPaDeviceManager ]: Detected RAMPAGE_5G Device
+2026-01-08 22:28:31.277 [ I - 0() - ExtPaDeviceManager ]: Recovering: 1 Device Handle Null: 0
+2026-01-08 22:28:31.299 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 HW Version ID: 1, Analog Version ID: 0, Analog Config ID: 0
+2026-01-08 22:28:31.300 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Calibration Date: 2025-12-10 15:01:23
+2026-01-08 22:28:31.302 [ I - 0() - ExtPaDeviceManager ]: Rampage5G-A006 Elapsed Time: 23:42:13, Event Counter: 1546
+2026-01-08 22:28:31.304 [ I - 0() - ExtPaMode ]: FAULTS: RF Input Overload: 0    Over Temperature: 0    Over Current: 0    Damage Control: 0    Communication Error: 0
+2026-01-08 22:28:31.304 [ I - 0() - sysman.sysman.default ]: CraApplication Starting
+2026-01-08 22:28:31.304 [ I - 0() - ModeSubsystem ]: ModeSubsystem.initialize
+2026-01-08 22:28:31.304 [ I - 0() - ModeManager ]: Initializing 0 mode packages...
+2026-01-08 22:28:31.306 [ I - 0() - CraApplication ]: 
+----System Information----
+Distribution Version: 0.0.0.0
+Application Software Version: 0.0.0.0
+--------------------------
+2026-01-08 22:28:31.307 [ I - 0() - CraApplication ]: Attempting to open a TCP server at 127.0.0.1:11001
+2026-01-08 22:28:31.309 [ I - 0() - CraApplication ]: Starting System Services
+2026-01-08 22:28:31.309 [ I - 0() - CraApplication ]: CraApplication Running...................................
+2026-01-08 22:28:31.310 [ I - 0() - CraApplication ]: Send termination request to quit
+2026-01-08 22:28:31.606 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection established: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:50662], Connection ID: [2]
+2026-01-08 22:28:47.340 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Configuring to Path 13, Frequency Type 0
+2026-01-08 22:28:47.347 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Enabling non-Auto TDD for path 13
+2026-01-08 22:28:47.670 [ I - 3(default[#1]) - ExtPaDeviceManager ]: EXTPAD path has been set to BAND_TDD33_39 (13).
+2026-01-08 22:28:47.673 [ I - 3(default[#1]) - ExtPaDeviceManager ]: Path-Enable IDQ Information - Gate Voltage: -2.922 V, Drain Current 0.075 A
+2026-01-08 22:28:48.681 [ I - 3(default[#1]) - ExtPaMode ]: RF Input Power: -18.4 dBm, RF Output Power: 9.2 dBm, CCA Voltage: 14.988 V, CCA Current: 0.395 A
+2026-01-08 22:45:46.934 [ I - 9(TCPServerConnection (default[#5])) - ConnectionManager.tcp.0 ]: Connection terminated: [tcp.0 127.0.0.1:11001 init <-> 127.0.0.1:50662], Connection ID: [2]
